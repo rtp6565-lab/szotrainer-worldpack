@@ -6,7 +6,6 @@
           "name": "Otthon",
           "emoji": "🏠",
           "words": [
-            {"word": "armchair", "meaning": "fotel"},
             {"word": "bookshelf", "meaning": "könyvespolc"},
             {"word": "curtain", "meaning": "függöny"},
             {"word": "drawer", "meaning": "fiók"},
