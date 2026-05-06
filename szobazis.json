@@ -1,0 +1,4872 @@
+{
+  "languages": {
+    "english": {
+      "topics": {
+        "otthon": {
+          "name": "Otthon",
+          "emoji": "🏠",
+          "words": [
+            {
+              "word": "armchair",
+              "meaning": "fotel"
+            },
+            {
+              "word": "bookshelf",
+              "meaning": "könyvespolc"
+            },
+            {
+              "word": "curtain",
+              "meaning": "függöny"
+            },
+            {
+              "word": "drawer",
+              "meaning": "fiók"
+            },
+            {
+              "word": "fireplace",
+              "meaning": "kandalló"
+            },
+            {
+              "word": "hallway",
+              "meaning": "előszoba"
+            },
+            {
+              "word": "carpet",
+              "meaning": "szőnyeg"
+            },
+            {
+              "word": "ceiling",
+              "meaning": "mennyezet"
+            },
+            {
+              "word": "chimney",
+              "meaning": "kémény"
+            },
+            {
+              "word": "doorbell",
+              "meaning": "csengő"
+            },
+            {
+              "word": "faucet",
+              "meaning": "csap"
+            },
+            {
+              "word": "garage",
+              "meaning": "garázs"
+            },
+            {
+              "word": "attic",
+              "meaning": "padlás"
+            },
+            {
+              "word": "basement",
+              "meaning": "pince"
+            },
+            {
+              "word": "balcony",
+              "meaning": "erkély"
+            },
+            {
+              "word": "washing machine",
+              "meaning": "mosógép"
+            },
+            {
+              "word": "vacuum cleaner",
+              "meaning": "porszívó"
+            },
+            {
+              "word": "light switch",
+              "meaning": "villanykapcsoló"
+            },
+            {
+              "word": "window sill",
+              "meaning": "ablakpárkány"
+            },
+            {
+              "word": "coat hanger",
+              "meaning": "fogasállvány"
+            },
+            {
+              "word": "pillow",
+              "meaning": "párna"
+            },
+            {
+              "word": "blanket",
+              "meaning": "takaró"
+            },
+            {
+              "word": "mirror",
+              "meaning": "tükör"
+            },
+            {
+              "word": "towel",
+              "meaning": "törölköző"
+            },
+            {
+              "word": "soap dish",
+              "meaning": "szappantartó"
+            },
+            {
+              "word": "trash can",
+              "meaning": "szemetes"
+            },
+            {
+              "word": "broom",
+              "meaning": "seprű"
+            },
+            {
+              "word": "dustpan",
+              "meaning": "lapát (szemetes)"
+            },
+            {
+              "word": "ironing board",
+              "meaning": "vasalódeszka"
+            },
+            {
+              "word": "clothes hanger",
+              "meaning": "ruhaakasztó"
+            },
+            {
+              "word": "Make the bed",
+              "meaning": "Megvetni az ágyat"
+            },
+            {
+              "word": "Take out the trash",
+              "meaning": "Kivinni a szemetet"
+            },
+            {
+              "word": "Do the dishes",
+              "meaning": "Elmosogatni"
+            },
+            {
+              "word": "Vacuum the floor",
+              "meaning": "Porszívózni a padlót"
+            },
+            {
+              "word": "Hang up the laundry",
+              "meaning": "Felakasztani a mosott ruhát"
+            },
+            {
+              "word": "Turn off the lights",
+              "meaning": "Lekapcsolni a villanyt"
+            },
+            {
+              "word": "Lock the door",
+              "meaning": "Bezárni az ajtót"
+            },
+            {
+              "word": "Open the window",
+              "meaning": "Kinyitni az ablakot"
+            },
+            {
+              "word": "Set the table",
+              "meaning": "Megteríteni az asztalt"
+            },
+            {
+              "word": "Clear the table",
+              "meaning": "Leszedni az asztalt"
+            },
+            {
+              "word": "shelf",
+              "meaning": "polc"
+            },
+            {
+              "word": "radiator",
+              "meaning": "radiátor"
+            },
+            {
+              "word": "outlet",
+              "meaning": "konnektor"
+            },
+            {
+              "word": "extension cord",
+              "meaning": "hosszabbító"
+            },
+            {
+              "word": "floor lamp",
+              "meaning": "állólámpa"
+            },
+            {
+              "word": "nightstand",
+              "meaning": "éjjeliszekrény"
+            },
+            {
+              "word": "laundry basket",
+              "meaning": "szennyeskosár"
+            },
+            {
+              "word": "dish rack",
+              "meaning": "tányérszárító"
+            },
+            {
+              "word": "kitchen sink",
+              "meaning": "mosogató"
+            },
+            {
+              "word": "storage room",
+              "meaning": "kamra"
+            },
+            {
+              "word": "blender",
+              "meaning": "turmixgép"
+            },
+            {
+              "word": "toaster",
+              "meaning": "kenyérpirító"
+            },
+            {
+              "word": "kettle",
+              "meaning": "vízforraló"
+            },
+            {
+              "word": "microwave",
+              "meaning": "mikró"
+            },
+            {
+              "word": "oven",
+              "meaning": "sütő"
+            },
+            {
+              "word": "stove",
+              "meaning": "tűzhely"
+            },
+            {
+              "word": "refrigerator",
+              "meaning": "hűtő"
+            },
+            {
+              "word": "freezer",
+              "meaning": "fagyasztóláda"
+            },
+            {
+              "word": "dishwasher",
+              "meaning": "mosogatógép"
+            },
+            {
+              "word": "sponge",
+              "meaning": "szivacs"
+            },
+            {
+              "word": "mop",
+              "meaning": "felmosó"
+            },
+            {
+              "word": "bucket",
+              "meaning": "vödör"
+            },
+            {
+              "word": "ladder",
+              "meaning": "létra"
+            },
+            {
+              "word": "hammer",
+              "meaning": "kalapács"
+            },
+            {
+              "word": "screwdriver",
+              "meaning": "csavarhúzó"
+            },
+            {
+              "word": "drill",
+              "meaning": "fúró"
+            },
+            {
+              "word": "measuring tape",
+              "meaning": "mérőszalag"
+            },
+            {
+              "word": "paintbrush",
+              "meaning": "ecset"
+            },
+            {
+              "word": "wallpaper",
+              "meaning": "tapéta"
+            },
+            {
+              "word": "blinds",
+              "meaning": "redőny"
+            },
+            {
+              "word": "mailbox",
+              "meaning": "postaláda"
+            },
+            {
+              "word": "fence",
+              "meaning": "kerítés"
+            },
+            {
+              "word": "hedge",
+              "meaning": "sövény"
+            },
+            {
+              "word": "lawn mower",
+              "meaning": "fűnyíró"
+            },
+            {
+              "word": "garden hose",
+              "meaning": "locsolótömlő"
+            },
+            {
+              "word": "sprinkler",
+              "meaning": "öntöző"
+            },
+            {
+              "word": "thermostat",
+              "meaning": "termosztát"
+            },
+            {
+              "word": "smoke detector",
+              "meaning": "füstjelző"
+            },
+            {
+              "word": "flashlight",
+              "meaning": "elemlámpa"
+            },
+            {
+              "word": "batteries",
+              "meaning": "elemek"
+            },
+            {
+              "word": "vase",
+              "meaning": "váza"
+            },
+            {
+              "word": "picture frame",
+              "meaning": "képkeret"
+            },
+            {
+              "word": "wall clock",
+              "meaning": "falióra"
+            },
+            {
+              "word": "calendar",
+              "meaning": "naptár"
+            },
+            {
+              "word": "duvet",
+              "meaning": "paplan"
+            },
+            {
+              "word": "fitted sheet",
+              "meaning": "gumis lepedő"
+            },
+            {
+              "word": "pillowcase",
+              "meaning": "párnahuzat"
+            },
+            {
+              "word": "wardrobe",
+              "meaning": "ruhásszekrény"
+            },
+            {
+              "word": "dresser",
+              "meaning": "komód"
+            },
+            {
+              "word": "bathtub",
+              "meaning": "kád"
+            },
+            {
+              "word": "showerhead",
+              "meaning": "zuhanyfej"
+            },
+            {
+              "word": "plunger",
+              "meaning": "wc-pumpa"
+            },
+            {
+              "word": "laundry detergent",
+              "meaning": "mosószer"
+            },
+            {
+              "word": "fabric softener",
+              "meaning": "öblítő"
+            },
+            {
+              "word": "clothes peg",
+              "meaning": "csipesz (ruhára)"
+            },
+            {
+              "word": "drying rack",
+              "meaning": "szárítóállvány"
+            },
+            {
+              "word": "scissors",
+              "meaning": "olló"
+            },
+            {
+              "word": "fuse box",
+              "meaning": "biztosítéktábla"
+            },
+            {
+              "word": "door handle",
+              "meaning": "kilincs"
+            },
+            {
+              "word": "window frame",
+              "meaning": "ablakkeret"
+            },
+            {
+              "word": "skylight",
+              "meaning": "tetőablak"
+            },
+            {
+              "word": "stool",
+              "meaning": "zsámoly"
+            },
+            {
+              "word": "rug runner",
+              "meaning": "futószőnyeg"
+            },
+            {
+              "word": "throw pillow",
+              "meaning": "díszpárna"
+            },
+            {
+              "word": "medicine cabinet",
+              "meaning": "gyógyszerszekrény"
+            },
+            {
+              "word": "toolbox",
+              "meaning": "szerszámosláda"
+            },
+            {
+              "word": "nails",
+              "meaning": "szögek"
+            },
+            {
+              "word": "power strip",
+              "meaning": "elosztó"
+            },
+            {
+              "word": "extension ladder",
+              "meaning": "csőlétra"
+            },
+            {
+              "word": "doormat",
+              "meaning": "lábtörlő"
+            },
+            {
+              "word": "shutters",
+              "meaning": "zsalugáter"
+            },
+            {
+              "word": "humidifier",
+              "meaning": "párásító"
+            },
+            {
+              "word": "air purifier",
+              "meaning": "légtisztító"
+            },
+            {
+              "word": "vacuum bag",
+              "meaning": "porzsák"
+            },
+            {
+              "word": "trash bags",
+              "meaning": "szemeteszsák"
+            },
+            {
+              "word": "recycling bin",
+              "meaning": "szelektív szemetes"
+            },
+            {
+              "word": "compost bin",
+              "meaning": "komposztáló"
+            },
+            {
+              "word": "step stool",
+              "meaning": "fellépő zsámoly"
+            },
+            {
+              "word": "corner shelf",
+              "meaning": "sarokpolc"
+            },
+            {
+              "word": "coat rack",
+              "meaning": "álló fogas"
+            }
+          ]
+        },
+        "etel_ital": {
+          "name": "Étel & Ital",
+          "emoji": "🍎",
+          "words": [
+            {
+              "word": "scrambled eggs",
+              "meaning": "rántotta"
+            },
+            {
+              "word": "oatmeal",
+              "meaning": "zabkása"
+            },
+            {
+              "word": "sourdough bread",
+              "meaning": "kovászos kenyér"
+            },
+            {
+              "word": "cream cheese",
+              "meaning": "krémsajt"
+            },
+            {
+              "word": "sparkling water",
+              "meaning": "szénsavas víz"
+            },
+            {
+              "word": "smoothie",
+              "meaning": "turmix"
+            },
+            {
+              "word": "leftovers",
+              "meaning": "maradék étel"
+            },
+            {
+              "word": "takeaway",
+              "meaning": "elvitel (étel)"
+            },
+            {
+              "word": "recipe",
+              "meaning": "recept"
+            },
+            {
+              "word": "ingredient",
+              "meaning": "hozzávaló"
+            },
+            {
+              "word": "portion",
+              "meaning": "adag"
+            },
+            {
+              "word": "seasoning",
+              "meaning": "fűszerezés"
+            },
+            {
+              "word": "dressing",
+              "meaning": "öntet (salátához)"
+            },
+            {
+              "word": "appetizer",
+              "meaning": "előétel"
+            },
+            {
+              "word": "main course",
+              "meaning": "főétel"
+            },
+            {
+              "word": "dessert",
+              "meaning": "desszert"
+            },
+            {
+              "word": "side dish",
+              "meaning": "köret"
+            },
+            {
+              "word": "snack",
+              "meaning": "nassolnivaló"
+            },
+            {
+              "word": "meal prep",
+              "meaning": "előre elkészített étel"
+            },
+            {
+              "word": "grocery list",
+              "meaning": "bevásárlólista"
+            },
+            {
+              "word": "I'm starving",
+              "meaning": "Éhen halok"
+            },
+            {
+              "word": "Could I have the bill?",
+              "meaning": "Kérhetem a számlát?"
+            },
+            {
+              "word": "It's delicious!",
+              "meaning": "Nagyon finom!"
+            },
+            {
+              "word": "I'm full",
+              "meaning": "Jóllaktam"
+            },
+            {
+              "word": "Can I have a refill?",
+              "meaning": "Kaphatok még egyet?"
+            },
+            {
+              "word": "aubergine",
+              "meaning": "padlizsán"
+            },
+            {
+              "word": "courgette",
+              "meaning": "cukkini"
+            },
+            {
+              "word": "leek",
+              "meaning": "póréhagyma"
+            },
+            {
+              "word": "beetroot",
+              "meaning": "cékla"
+            },
+            {
+              "word": "blueberry",
+              "meaning": "áfonya"
+            },
+            {
+              "word": "raspberry",
+              "meaning": "málna"
+            },
+            {
+              "word": "peach",
+              "meaning": "őszibarack"
+            },
+            {
+              "word": "plum",
+              "meaning": "szilva"
+            },
+            {
+              "word": "walnut",
+              "meaning": "dió"
+            },
+            {
+              "word": "chestnut",
+              "meaning": "gesztenye"
+            },
+            {
+              "word": "cinnamon",
+              "meaning": "fahéj"
+            },
+            {
+              "word": "ginger",
+              "meaning": "gyömbér"
+            },
+            {
+              "word": "turmeric",
+              "meaning": "kurkuma"
+            },
+            {
+              "word": "rosemary",
+              "meaning": "rozmaring"
+            },
+            {
+              "word": "thyme",
+              "meaning": "kakukkfű"
+            },
+            {
+              "word": "skillet",
+              "meaning": "serpenyő"
+            },
+            {
+              "word": "ladle",
+              "meaning": "merőkanál"
+            },
+            {
+              "word": "whisk",
+              "meaning": "habverő"
+            },
+            {
+              "word": "cutting board",
+              "meaning": "vágódeszka"
+            },
+            {
+              "word": "colander",
+              "meaning": "szűrő/lecsepegető"
+            },
+            {
+              "word": "baking tray",
+              "meaning": "sütőtepsi"
+            },
+            {
+              "word": "oven mitt",
+              "meaning": "sütőkesztyű"
+            },
+            {
+              "word": "corkscrew",
+              "meaning": "dugóhúzó"
+            },
+            {
+              "word": "bottle opener",
+              "meaning": "sörnyitó"
+            },
+            {
+              "word": "thermos",
+              "meaning": "termosz"
+            },
+            {
+              "word": "strawberry",
+              "meaning": "eper"
+            },
+            {
+              "word": "cherry",
+              "meaning": "cseresznye"
+            },
+            {
+              "word": "grapes",
+              "meaning": "szőlő"
+            },
+            {
+              "word": "melon",
+              "meaning": "dinnye"
+            },
+            {
+              "word": "watermelon",
+              "meaning": "görögdinnye"
+            },
+            {
+              "word": "lettuce",
+              "meaning": "saláta (levél)"
+            },
+            {
+              "word": "spinach",
+              "meaning": "spenót"
+            },
+            {
+              "word": "broccoli",
+              "meaning": "brokkoli"
+            },
+            {
+              "word": "cauliflower",
+              "meaning": "karfiol"
+            },
+            {
+              "word": "cabbage",
+              "meaning": "káposzta"
+            },
+            {
+              "word": "pepper",
+              "meaning": "paprika (zöldség)"
+            },
+            {
+              "word": "chili pepper",
+              "meaning": "csípős paprika"
+            },
+            {
+              "word": "corn",
+              "meaning": "kukorica"
+            },
+            {
+              "word": "peas",
+              "meaning": "borsó"
+            },
+            {
+              "word": "beans",
+              "meaning": "bab"
+            },
+            {
+              "word": "lentils",
+              "meaning": "lencse"
+            },
+            {
+              "word": "chickpeas",
+              "meaning": "csicseriborsó"
+            },
+            {
+              "word": "rice",
+              "meaning": "rizs"
+            },
+            {
+              "word": "pasta",
+              "meaning": "tészta"
+            },
+            {
+              "word": "noodles",
+              "meaning": "metélt/tészta"
+            },
+            {
+              "word": "flour",
+              "meaning": "liszt"
+            },
+            {
+              "word": "yeast",
+              "meaning": "élesztő"
+            },
+            {
+              "word": "butter",
+              "meaning": "vaj"
+            },
+            {
+              "word": "olive oil",
+              "meaning": "olívaolaj"
+            },
+            {
+              "word": "vinegar",
+              "meaning": "ecet"
+            },
+            {
+              "word": "soy sauce",
+              "meaning": "szójaszósz"
+            },
+            {
+              "word": "honey",
+              "meaning": "méz"
+            },
+            {
+              "word": "jam",
+              "meaning": "lekvár"
+            },
+            {
+              "word": "peanut butter",
+              "meaning": "mogyoróvaj"
+            },
+            {
+              "word": "yogurt",
+              "meaning": "joghurt"
+            },
+            {
+              "word": "cottage cheese",
+              "meaning": "túró"
+            },
+            {
+              "word": "cream",
+              "meaning": "tejszín"
+            },
+            {
+              "word": "mustard",
+              "meaning": "mustár"
+            },
+            {
+              "word": "ketchup",
+              "meaning": "ketchup"
+            },
+            {
+              "word": "mayonnaise",
+              "meaning": "majnéz"
+            },
+            {
+              "word": "salt",
+              "meaning": "só"
+            },
+            {
+              "word": "black pepper",
+              "meaning": "fekete bors"
+            },
+            {
+              "word": "paprika spice",
+              "meaning": "őrölt fűszerpaprika"
+            },
+            {
+              "word": "basil",
+              "meaning": "bazsalikom"
+            },
+            {
+              "word": "oregano",
+              "meaning": "oreganó"
+            },
+            {
+              "word": "parsley",
+              "meaning": "petrezselyem"
+            },
+            {
+              "word": "dill",
+              "meaning": "kapor"
+            },
+            {
+              "word": "mint",
+              "meaning": "menta"
+            },
+            {
+              "word": "soup pot",
+              "meaning": "leveses fazék"
+            },
+            {
+              "word": "pot lid",
+              "meaning": "fedő"
+            },
+            {
+              "word": "rolling pin",
+              "meaning": "nyújtófa"
+            },
+            {
+              "word": "grater",
+              "meaning": "reszelő"
+            },
+            {
+              "word": "peeler",
+              "meaning": "hámozó"
+            },
+            {
+              "word": "can opener",
+              "meaning": "konzervnyitó"
+            },
+            {
+              "word": "measuring cup",
+              "meaning": "mérőedény"
+            },
+            {
+              "word": "kitchen timer",
+              "meaning": "konyhai időzítő"
+            },
+            {
+              "word": "food container",
+              "meaning": "ételtároló doboz"
+            },
+            {
+              "word": "cling film",
+              "meaning": "folpack"
+            },
+            {
+              "word": "foil",
+              "meaning": "alufólia"
+            },
+            {
+              "word": "paper towel",
+              "meaning": "papírtörlő"
+            },
+            {
+              "word": "napkin",
+              "meaning": "szalvéta"
+            },
+            {
+              "word": "I'm thirsty",
+              "meaning": "Szomjas vagyok"
+            },
+            {
+              "word": "Bon appetit",
+              "meaning": "Jó étvágyat"
+            },
+            {
+              "word": "Cheers!",
+              "meaning": "Egészségedre!"
+            },
+            {
+              "word": "I'm allergic to nuts",
+              "meaning": "Allergiás vagyok a diófélékre"
+            },
+            {
+              "word": "No sugar, please",
+              "meaning": "Cukor nélkül, kérem"
+            },
+            {
+              "word": "Tap water is fine",
+              "meaning": "Csapvíz jó"
+            },
+            {
+              "word": "Could we split the bill?",
+              "meaning": "Oszthatjuk a számlát?"
+            },
+            {
+              "word": "I'll have the same",
+              "meaning": "Ugyanazt kérem"
+            },
+            {
+              "word": "Medium rare",
+              "meaning": "átsült/közepesen sült (hús)"
+            },
+            {
+              "word": "Vegetarian option",
+              "meaning": "vegetáriánus fogás"
+            },
+            {
+              "word": "Gluten-free",
+              "meaning": "gluténmentes"
+            },
+            {
+              "word": "Lactose-free",
+              "meaning": "laktózmentes"
+            },
+            {
+              "word": "Takeaway box",
+              "meaning": "elvitel doboz"
+            },
+            {
+              "word": "Doggy bag",
+              "meaning": "maradék elviteles doboz"
+            }
+          ]
+        },
+        "munka_iroda": {
+          "name": "Munka & Iroda",
+          "emoji": "💼",
+          "words": [
+            {
+              "word": "deadline",
+              "meaning": "határidő"
+            },
+            {
+              "word": "meeting",
+              "meaning": "értekezlet"
+            },
+            {
+              "word": "spreadsheet",
+              "meaning": "táblázat"
+            },
+            {
+              "word": "invoice",
+              "meaning": "számla (üzleti)"
+            },
+            {
+              "word": "contract",
+              "meaning": "szerződés"
+            },
+            {
+              "word": "colleague",
+              "meaning": "kolléga"
+            },
+            {
+              "word": "supervisor",
+              "meaning": "felettes"
+            },
+            {
+              "word": "employee",
+              "meaning": "alkalmazott"
+            },
+            {
+              "word": "employer",
+              "meaning": "munkáltató"
+            },
+            {
+              "word": "salary",
+              "meaning": "fizetés"
+            },
+            {
+              "word": "promotion",
+              "meaning": "előléptetés"
+            },
+            {
+              "word": "resignation",
+              "meaning": "felmondás"
+            },
+            {
+              "word": "remote work",
+              "meaning": "távmunka"
+            },
+            {
+              "word": "overtime",
+              "meaning": "túlóra"
+            },
+            {
+              "word": "shift",
+              "meaning": "műszak"
+            },
+            {
+              "word": "feedback",
+              "meaning": "visszajelzés"
+            },
+            {
+              "word": "brainstorming",
+              "meaning": "ötletelés"
+            },
+            {
+              "word": "presentation",
+              "meaning": "előadás/bemutató"
+            },
+            {
+              "word": "budget",
+              "meaning": "költségvetés"
+            },
+            {
+              "word": "project manager",
+              "meaning": "projektmenedzser"
+            },
+            {
+              "word": "Let's schedule a meeting",
+              "meaning": "Ütemezzünk be egy megbeszélést"
+            },
+            {
+              "word": "I'll send you an email",
+              "meaning": "Küldök neked egy emailt"
+            },
+            {
+              "word": "Can we reschedule?",
+              "meaning": "Át tudjuk ütemezni?"
+            },
+            {
+              "word": "I'm working on it",
+              "meaning": "Dolgozom rajta"
+            },
+            {
+              "word": "What's the deadline?",
+              "meaning": "Mi a határidő?"
+            },
+            {
+              "word": "stapler",
+              "meaning": "tűzőgép"
+            },
+            {
+              "word": "paper clip",
+              "meaning": "gemkapocs"
+            },
+            {
+              "word": "sticky note",
+              "meaning": "öntapadós cetli"
+            },
+            {
+              "word": "whiteboard",
+              "meaning": "fehértábla"
+            },
+            {
+              "word": "projector",
+              "meaning": "kivetítő"
+            },
+            {
+              "word": "headphones",
+              "meaning": "fejhallgató"
+            },
+            {
+              "word": "charger",
+              "meaning": "töltő"
+            },
+            {
+              "word": "password",
+              "meaning": "jelszó"
+            },
+            {
+              "word": "attachment",
+              "meaning": "melléklet (email)"
+            },
+            {
+              "word": "inbox",
+              "meaning": "bejövő levelek"
+            },
+            {
+              "word": "out of office",
+              "meaning": "irodán kívül"
+            },
+            {
+              "word": "conference call",
+              "meaning": "telefonkonferencia"
+            },
+            {
+              "word": "agenda",
+              "meaning": "napirend"
+            },
+            {
+              "word": "minutes",
+              "meaning": "jegyzőkönyv"
+            },
+            {
+              "word": "workload",
+              "meaning": "munkaterhelés"
+            },
+            {
+              "word": "task",
+              "meaning": "feladat"
+            },
+            {
+              "word": "priority",
+              "meaning": "prioritás"
+            },
+            {
+              "word": "report",
+              "meaning": "jelentés"
+            },
+            {
+              "word": "draft",
+              "meaning": "vázlat/piszkozat"
+            },
+            {
+              "word": "approval",
+              "meaning": "jóváhagyás"
+            },
+            {
+              "word": "signature",
+              "meaning": "aláírás"
+            },
+            {
+              "word": "folder",
+              "meaning": "mappa"
+            },
+            {
+              "word": "filing cabinet",
+              "meaning": "irattároló szekrény"
+            },
+            {
+              "word": "business card",
+              "meaning": "névjegykártya"
+            },
+            {
+              "word": "job interview",
+              "meaning": "állásinterjú"
+            },
+            {
+              "word": "internship",
+              "meaning": "gyakornokság"
+            },
+            {
+              "word": "probation period",
+              "meaning": "próbaidő"
+            },
+            {
+              "word": "pay raise",
+              "meaning": "fizetésemelés"
+            },
+            {
+              "word": "bonus",
+              "meaning": "prémium"
+            },
+            {
+              "word": "invoice number",
+              "meaning": "számlaszám"
+            },
+            {
+              "word": "purchase order",
+              "meaning": "megrendelőlap"
+            },
+            {
+              "word": "timesheet",
+              "meaning": "munkaidő-nyilvántartás"
+            },
+            {
+              "word": "payroll",
+              "meaning": "bérjegyzék"
+            },
+            {
+              "word": "tax ID",
+              "meaning": "adóazonosító"
+            },
+            {
+              "word": "business trip",
+              "meaning": "üzleti út"
+            },
+            {
+              "word": "expense report",
+              "meaning": "költségelszámolás"
+            },
+            {
+              "word": "receipt",
+              "meaning": "nyugta"
+            },
+            {
+              "word": "mileage",
+              "meaning": "útiköltség"
+            },
+            {
+              "word": "VPN",
+              "meaning": "VPN"
+            },
+            {
+              "word": "screenshot",
+              "meaning": "képernyőkép"
+            },
+            {
+              "word": "video call",
+              "meaning": "videóhívás"
+            },
+            {
+              "word": "shared drive",
+              "meaning": "megosztott meghajtó"
+            },
+            {
+              "word": "calendar invite",
+              "meaning": "naptármeghívó"
+            },
+            {
+              "word": "out sick",
+              "meaning": "betegállományban"
+            },
+            {
+              "word": "sick leave",
+              "meaning": "betegszabadság"
+            },
+            {
+              "word": "vacation days",
+              "meaning": "szabadnapok"
+            },
+            {
+              "word": "public holiday",
+              "meaning": "ünnepnap"
+            },
+            {
+              "word": "HR department",
+              "meaning": "HR osztály"
+            },
+            {
+              "word": "IT support",
+              "meaning": "IT ügyfélszolgálat"
+            },
+            {
+              "word": "help desk ticket",
+              "meaning": "hibajegy"
+            },
+            {
+              "word": "password reset",
+              "meaning": "jelszó visszaállítás"
+            },
+            {
+              "word": "two-factor authentication",
+              "meaning": "kétlépcsős azonosítás"
+            },
+            {
+              "word": "NDA",
+              "meaning": "titoktartási szerződés"
+            },
+            {
+              "word": "KPI",
+              "meaning": "KPI / kulcsmutató"
+            },
+            {
+              "word": "OKR",
+              "meaning": "OKR célok"
+            },
+            {
+              "word": "roadmap",
+              "meaning": "útitervek"
+            },
+            {
+              "word": "stakeholder",
+              "meaning": "érdekelt fél"
+            },
+            {
+              "word": "vendor",
+              "meaning": "beszállító"
+            },
+            {
+              "word": "client",
+              "meaning": "ügyfél"
+            },
+            {
+              "word": "invoice overdue",
+              "meaning": "lejárt határidejű számla"
+            },
+            {
+              "word": "follow-up email",
+              "meaning": "emlékeztető email"
+            },
+            {
+              "word": "ping me",
+              "meaning": "Írj rám / pingelj"
+            },
+            {
+              "word": "loop someone in",
+              "meaning": "bevonni valakit (CC)"
+            },
+            {
+              "word": "heads-up",
+              "meaning": "előzetes értesítés"
+            },
+            {
+              "word": "FYI",
+              "meaning": "tájékoztatásul"
+            },
+            {
+              "word": "ASAP",
+              "meaning": "amint lehet"
+            },
+            {
+              "word": "EOB",
+              "meaning": "munkanap vége"
+            },
+            {
+              "word": "WFH today",
+              "meaning": "Ma távmunka"
+            },
+            {
+              "word": "capacity",
+              "meaning": "kapacitás"
+            },
+            {
+              "word": "scope creep",
+              "meaning": "feladatkör szétfolyása"
+            },
+            {
+              "word": "handover",
+              "meaning": "átadás"
+            },
+            {
+              "word": "onboarding",
+              "meaning": "beköszöntetés"
+            },
+            {
+              "word": "offboarding",
+              "meaning": "kilépés folyamata"
+            },
+            {
+              "word": "performance review",
+              "meaning": "teljesítményértékelés"
+            },
+            {
+              "word": "one-on-one",
+              "meaning": "egy az egyben beszélgetés"
+            },
+            {
+              "word": "skip-level meeting",
+              "meaning": "átugrott szintű megbeszélés"
+            },
+            {
+              "word": "stand-up meeting",
+              "meaning": "napi stand-up"
+            },
+            {
+              "word": "minutes taker",
+              "meaning": "jegyzőkönyvvezető"
+            },
+            {
+              "word": "action items",
+              "meaning": "feladatlista"
+            },
+            {
+              "word": "blocker",
+              "meaning": "akadály"
+            },
+            {
+              "word": "dependency",
+              "meaning": "függőség"
+            },
+            {
+              "word": "risk assessment",
+              "meaning": "kockázatelemzés"
+            },
+            {
+              "word": "rollback plan",
+              "meaning": "visszaállítási terv"
+            },
+            {
+              "word": "hotfix",
+              "meaning": "gyors javítás"
+            },
+            {
+              "word": "release notes",
+              "meaning": "kiadási megjegyzések"
+            },
+            {
+              "word": "beta testing",
+              "meaning": "béta teszt"
+            },
+            {
+              "word": "copy deck",
+              "meaning": "bemutató másolat"
+            },
+            {
+              "word": "memo",
+              "meaning": "jegyzőkönyv/memos"
+            },
+            {
+              "word": "letterhead",
+              "meaning": "levélpapír fejléc"
+            },
+            {
+              "word": "watermark",
+              "meaning": "digitális vízjel"
+            },
+            {
+              "word": "QR code",
+              "meaning": "QR-kód"
+            },
+            {
+              "word": "barcode",
+              "meaning": "vonalkód"
+            },
+            {
+              "word": "office supplies",
+              "meaning": "irodaszer"
+            },
+            {
+              "word": "printer cartridge",
+              "meaning": "nyomtatópatron"
+            },
+            {
+              "word": "paper jam",
+              "meaning": "papírelakadás"
+            }
+          ]
+        },
+        "termeszet_idojaras": {
+          "name": "Természet & Időjárás",
+          "emoji": "🌿",
+          "words": [
+            {
+              "word": "thunderstorm",
+              "meaning": "zivatar"
+            },
+            {
+              "word": "hailstorm",
+              "meaning": "jégeső"
+            },
+            {
+              "word": "drizzle",
+              "meaning": "szitálás/szemerkélés"
+            },
+            {
+              "word": "fog",
+              "meaning": "köd"
+            },
+            {
+              "word": "frost",
+              "meaning": "fagy/dér"
+            },
+            {
+              "word": "heatwave",
+              "meaning": "hőhullám"
+            },
+            {
+              "word": "breeze",
+              "meaning": "szellő"
+            },
+            {
+              "word": "gust",
+              "meaning": "széllökés"
+            },
+            {
+              "word": "humidity",
+              "meaning": "páratartalom"
+            },
+            {
+              "word": "forecast",
+              "meaning": "időjárás-előrejelzés"
+            },
+            {
+              "word": "It's pouring",
+              "meaning": "Szakad az eső"
+            },
+            {
+              "word": "It's freezing",
+              "meaning": "Csikorgó hideg van"
+            },
+            {
+              "word": "It's muggy",
+              "meaning": "Fülledt az idő"
+            },
+            {
+              "word": "The sun is out",
+              "meaning": "Süt a nap"
+            },
+            {
+              "word": "There's a storm coming",
+              "meaning": "Vihar közeledik"
+            },
+            {
+              "word": "cliff",
+              "meaning": "sziklapart/szirt"
+            },
+            {
+              "word": "valley",
+              "meaning": "völgy"
+            },
+            {
+              "word": "meadow",
+              "meaning": "rét"
+            },
+            {
+              "word": "swamp",
+              "meaning": "mocsár"
+            },
+            {
+              "word": "waterfall",
+              "meaning": "vízesés"
+            },
+            {
+              "word": "glacier",
+              "meaning": "gleccser"
+            },
+            {
+              "word": "ridge",
+              "meaning": "hegygerinc"
+            },
+            {
+              "word": "shore",
+              "meaning": "partvidék"
+            },
+            {
+              "word": "tide",
+              "meaning": "dagály/apály"
+            },
+            {
+              "word": "wave",
+              "meaning": "hullám"
+            },
+            {
+              "word": "oak tree",
+              "meaning": "tölgyfa"
+            },
+            {
+              "word": "pine tree",
+              "meaning": "fenyőfa"
+            },
+            {
+              "word": "birch tree",
+              "meaning": "nyírfa"
+            },
+            {
+              "word": "willow tree",
+              "meaning": "fűzfa"
+            },
+            {
+              "word": "moss",
+              "meaning": "moha"
+            },
+            {
+              "word": "fern",
+              "meaning": "páfrány"
+            },
+            {
+              "word": "mushroom",
+              "meaning": "gomba"
+            },
+            {
+              "word": "acorn",
+              "meaning": "makk"
+            },
+            {
+              "word": "pinecone",
+              "meaning": "toboz"
+            },
+            {
+              "word": "hedgehog",
+              "meaning": "sün"
+            },
+            {
+              "word": "fox",
+              "meaning": "róka"
+            },
+            {
+              "word": "deer",
+              "meaning": "szarvas"
+            },
+            {
+              "word": "owl",
+              "meaning": "bagoly"
+            },
+            {
+              "word": "bat",
+              "meaning": "denevér"
+            },
+            {
+              "word": "dragonfly",
+              "meaning": "szitakötő"
+            },
+            {
+              "word": "butterfly",
+              "meaning": "pillangó"
+            },
+            {
+              "word": "earthworm",
+              "meaning": "földigiliszta"
+            },
+            {
+              "word": "snail",
+              "meaning": "csiga"
+            },
+            {
+              "word": "ladybug",
+              "meaning": "katicabogár"
+            },
+            {
+              "word": "rainbow",
+              "meaning": "szivárvány"
+            },
+            {
+              "word": "sunrise",
+              "meaning": "napkelte"
+            },
+            {
+              "word": "sunset",
+              "meaning": "naplemente"
+            },
+            {
+              "word": "full moon",
+              "meaning": "telihold"
+            },
+            {
+              "word": "shooting star",
+              "meaning": "hullócsillag"
+            },
+            {
+              "word": "northern lights",
+              "meaning": "sarki fény"
+            },
+            {
+              "word": "lightning",
+              "meaning": "villám"
+            },
+            {
+              "word": "thunder",
+              "meaning": "mennydörgés"
+            },
+            {
+              "word": "snowflake",
+              "meaning": "hópehely"
+            },
+            {
+              "word": "blizzard",
+              "meaning": "hóvihar"
+            },
+            {
+              "word": "sleet",
+              "meaning": "dara/havas eső"
+            },
+            {
+              "word": "avalanche",
+              "meaning": "lavina"
+            },
+            {
+              "word": "drought",
+              "meaning": "aszály"
+            },
+            {
+              "word": "flood",
+              "meaning": "árvíz"
+            },
+            {
+              "word": "wildfire",
+              "meaning": "erdőtűz"
+            },
+            {
+              "word": "earthquake",
+              "meaning": "földrengés"
+            },
+            {
+              "word": "volcano",
+              "meaning": "vulkán"
+            },
+            {
+              "word": "crater",
+              "meaning": "kráter"
+            },
+            {
+              "word": "geyser",
+              "meaning": "gejzír"
+            },
+            {
+              "word": "hot spring",
+              "meaning": "termálvíz/forrás"
+            },
+            {
+              "word": "canyon",
+              "meaning": "szurdok"
+            },
+            {
+              "word": "plateau",
+              "meaning": "fennsík"
+            },
+            {
+              "word": "delta",
+              "meaning": "delta"
+            },
+            {
+              "word": "marsh",
+              "meaning": "ingovány"
+            },
+            {
+              "word": "reed",
+              "meaning": "nád"
+            },
+            {
+              "word": "pebble",
+              "meaning": "kavics"
+            },
+            {
+              "word": "sand dune",
+              "meaning": "homokdűne"
+            },
+            {
+              "word": "tornado",
+              "meaning": "tornádó"
+            },
+            {
+              "word": "hurricane",
+              "meaning": "hurrikán"
+            },
+            {
+              "word": "cyclone",
+              "meaning": "ciklon"
+            },
+            {
+              "word": "wind chill",
+              "meaning": "szélhűtés hatása"
+            },
+            {
+              "word": "UV index",
+              "meaning": "UV-index"
+            },
+            {
+              "word": "pollen count",
+              "meaning": "pollenszám"
+            },
+            {
+              "word": "season",
+              "meaning": "évszak"
+            },
+            {
+              "word": "solstice",
+              "meaning": "napforduló"
+            },
+            {
+              "word": "equinox",
+              "meaning": "napéjegyenlőség"
+            },
+            {
+              "word": "spring thaw",
+              "meaning": "melegedés/tavaszi olvadás"
+            },
+            {
+              "word": "harvest",
+              "meaning": "aratás"
+            },
+            {
+              "word": "crop",
+              "meaning": "termény"
+            },
+            {
+              "word": "tractor",
+              "meaning": "traktor"
+            },
+            {
+              "word": "beehive",
+              "meaning": "méhkas"
+            },
+            {
+              "word": "hive",
+              "meaning": "kas"
+            },
+            {
+              "word": "pollinator",
+              "meaning": "megporzó"
+            },
+            {
+              "word": "nest",
+              "meaning": "fészek"
+            },
+            {
+              "word": "den",
+              "meaning": "barlang/búvóhely"
+            },
+            {
+              "word": "burrow",
+              "meaning": "üreg"
+            },
+            {
+              "word": "tracks",
+              "meaning": "nyomok"
+            },
+            {
+              "word": "footprints",
+              "meaning": "lábnyom"
+            },
+            {
+              "word": "trail",
+              "meaning": "ösvény"
+            },
+            {
+              "word": "summit",
+              "meaning": "csúcs"
+            },
+            {
+              "word": "altitude",
+              "meaning": "magasság"
+            },
+            {
+              "word": "compass",
+              "meaning": "iránytű"
+            },
+            {
+              "word": "map",
+              "meaning": "térkép"
+            },
+            {
+              "word": "tide pool",
+              "meaning": "dagálymedence"
+            },
+            {
+              "word": "coral",
+              "meaning": "korall"
+            },
+            {
+              "word": "seaweed",
+              "meaning": "hínár"
+            },
+            {
+              "word": "shell",
+              "meaning": "kagyló"
+            },
+            {
+              "word": "crab",
+              "meaning": "rák"
+            },
+            {
+              "word": "jellyfish",
+              "meaning": "medúza"
+            },
+            {
+              "word": "seagull",
+              "meaning": "sirály"
+            },
+            {
+              "word": "eagle",
+              "meaning": "sas"
+            },
+            {
+              "word": "hawk",
+              "meaning": "sólyom"
+            },
+            {
+              "word": "raven",
+              "meaning": "holló"
+            },
+            {
+              "word": "wolf",
+              "meaning": "farkas"
+            },
+            {
+              "word": "bear",
+              "meaning": "medve"
+            },
+            {
+              "word": "hare",
+              "meaning": "nyúl"
+            },
+            {
+              "word": "squirrel",
+              "meaning": "mókus"
+            },
+            {
+              "word": "beaver",
+              "meaning": "hód"
+            },
+            {
+              "word": "otter",
+              "meaning": "vidra"
+            },
+            {
+              "word": "stream",
+              "meaning": "patak"
+            },
+            {
+              "word": "pond",
+              "meaning": "tó (kis)"
+            },
+            {
+              "word": "lake",
+              "meaning": "tó"
+            },
+            {
+              "word": "river",
+              "meaning": "folyó"
+            },
+            {
+              "word": "meadow flower",
+              "meaning": "réti virág"
+            },
+            {
+              "word": "lichen",
+              "meaning": "zuzmó"
+            },
+            {
+              "word": "dew",
+              "meaning": "harmat"
+            }
+          ]
+        },
+        "mindennapi_kifejezesek": {
+          "name": "Mindennapi kifejezések",
+          "emoji": "🗣️",
+          "words": [
+            {
+              "word": "How's it going?",
+              "meaning": "Hogy megy?"
+            },
+            {
+              "word": "Not bad, thanks",
+              "meaning": "Nem rossz, köszönöm"
+            },
+            {
+              "word": "Could you repeat that?",
+              "meaning": "Megismételnéd?"
+            },
+            {
+              "word": "I beg your pardon?",
+              "meaning": "Elnézést, nem értettem"
+            },
+            {
+              "word": "Never mind",
+              "meaning": "Semmi gond / Hagyd"
+            },
+            {
+              "word": "Just a moment",
+              "meaning": "Csak egy pillanat"
+            },
+            {
+              "word": "I'll be right back",
+              "meaning": "Mindjárt visszajövök"
+            },
+            {
+              "word": "Take care",
+              "meaning": "Vigyázz magadra"
+            },
+            {
+              "word": "Have a good one",
+              "meaning": "Szép napot"
+            },
+            {
+              "word": "Long time no see",
+              "meaning": "Rég láttalak"
+            },
+            {
+              "word": "What a coincidence!",
+              "meaning": "Micsoda véletlen!"
+            },
+            {
+              "word": "It's up to you",
+              "meaning": "Rajtad múlik"
+            },
+            {
+              "word": "I'm in a hurry",
+              "meaning": "Sietős dolgom van"
+            },
+            {
+              "word": "Could you help me?",
+              "meaning": "Tudnál segíteni?"
+            },
+            {
+              "word": "I don't understand",
+              "meaning": "Nem értem"
+            },
+            {
+              "word": "Can you speak slower?",
+              "meaning": "Tudnál lassabban beszélni?"
+            },
+            {
+              "word": "What do you mean?",
+              "meaning": "Mit értesz ez alatt?"
+            },
+            {
+              "word": "That makes sense",
+              "meaning": "Ez logikus"
+            },
+            {
+              "word": "I agree",
+              "meaning": "Egyetértek"
+            },
+            {
+              "word": "I disagree",
+              "meaning": "Nem értek egyet"
+            },
+            {
+              "word": "That's a good point",
+              "meaning": "Ez egy jó felvetés"
+            },
+            {
+              "word": "To be honest",
+              "meaning": "Őszintén szólva"
+            },
+            {
+              "word": "In other words",
+              "meaning": "Más szóval"
+            },
+            {
+              "word": "For example",
+              "meaning": "Például"
+            },
+            {
+              "word": "On the other hand",
+              "meaning": "Másrészt"
+            },
+            {
+              "word": "As far as I know",
+              "meaning": "Amennyire tudom"
+            },
+            {
+              "word": "I have no idea",
+              "meaning": "Fogalmam sincs"
+            },
+            {
+              "word": "Good luck!",
+              "meaning": "Sok szerencsét!"
+            },
+            {
+              "word": "Well done!",
+              "meaning": "Szép munka!"
+            },
+            {
+              "word": "Congratulations!",
+              "meaning": "Gratulálok!"
+            },
+            {
+              "word": "I'm sorry to hear that",
+              "meaning": "Sajnálom hallani"
+            },
+            {
+              "word": "Cheer up!",
+              "meaning": "Ne csüggedj!"
+            },
+            {
+              "word": "No worries",
+              "meaning": "Semmi gond"
+            },
+            {
+              "word": "It's fine",
+              "meaning": "Minden rendben"
+            },
+            {
+              "word": "What's the matter?",
+              "meaning": "Mi a baj?"
+            },
+            {
+              "word": "Are you alright?",
+              "meaning": "Jól vagy?"
+            },
+            {
+              "word": "I feel under the weather",
+              "meaning": "Nem érzem jól magam"
+            },
+            {
+              "word": "I'm exhausted",
+              "meaning": "Teljesen ki vagyok merülve"
+            },
+            {
+              "word": "I can't wait!",
+              "meaning": "Alig várom!"
+            },
+            {
+              "word": "That's too bad",
+              "meaning": "Ez sajnálatos"
+            },
+            {
+              "word": "By the way",
+              "meaning": "Egyébként / Mellesleg"
+            },
+            {
+              "word": "Speaking of which",
+              "meaning": "Apropó"
+            },
+            {
+              "word": "Let me think",
+              "meaning": "Hadd gondoljam meg"
+            },
+            {
+              "word": "You're right",
+              "meaning": "Igazad van"
+            },
+            {
+              "word": "I'll keep that in mind",
+              "meaning": "Észben tartom"
+            },
+            {
+              "word": "It depends",
+              "meaning": "Ez attól függ"
+            },
+            {
+              "word": "More or less",
+              "meaning": "Több-kevesebb / Nagyjából"
+            },
+            {
+              "word": "Sooner or later",
+              "meaning": "Előbb vagy utóbb"
+            },
+            {
+              "word": "Once in a while",
+              "meaning": "Néha / Időnként"
+            },
+            {
+              "word": "Better late than never",
+              "meaning": "Jobb késő, mint soha"
+            },
+            {
+              "word": "See you later",
+              "meaning": "Később találkozunk"
+            },
+            {
+              "word": "See you tomorrow",
+              "meaning": "Holnap találkozunk"
+            },
+            {
+              "word": "Nice to meet you",
+              "meaning": "Örülök, hogy megismertelek"
+            },
+            {
+              "word": "What's your name?",
+              "meaning": "Hogy hívnak?"
+            },
+            {
+              "word": "My name is …",
+              "meaning": "A nevem …"
+            },
+            {
+              "word": "Where are you from?",
+              "meaning": "Honnan származol?"
+            },
+            {
+              "word": "I'm from Hungary",
+              "meaning": "Magyarországról jövök"
+            },
+            {
+              "word": "How old are you?",
+              "meaning": "Hány éves vagy?"
+            },
+            {
+              "word": "What do you do?",
+              "meaning": "Mi a foglalkozásod?"
+            },
+            {
+              "word": "I'm a student",
+              "meaning": "Diák vagyok"
+            },
+            {
+              "word": "Excuse me",
+              "meaning": "Elnézést"
+            },
+            {
+              "word": "Sorry",
+              "meaning": "Bocsánat"
+            },
+            {
+              "word": "Thank you very much",
+              "meaning": "Nagyon köszönöm"
+            },
+            {
+              "word": "You're welcome",
+              "meaning": "Szívesen"
+            },
+            {
+              "word": "Please",
+              "meaning": "Kérem"
+            },
+            {
+              "word": "Yes",
+              "meaning": "Igen"
+            },
+            {
+              "word": "No",
+              "meaning": "Nem"
+            },
+            {
+              "word": "Maybe",
+              "meaning": "Talán"
+            },
+            {
+              "word": "I don't know yet",
+              "meaning": "Még nem tudom"
+            },
+            {
+              "word": "I'll check",
+              "meaning": "Megnézem"
+            },
+            {
+              "word": "Sounds good",
+              "meaning": "Jól hangzik"
+            },
+            {
+              "word": "Let's do it",
+              "meaning": "Csináljuk"
+            },
+            {
+              "word": "I'm not sure",
+              "meaning": "Nem vagyok biztos benne"
+            },
+            {
+              "word": "Could be better",
+              "meaning": "Lehetne jobb is"
+            },
+            {
+              "word": "I'm busy right now",
+              "meaning": "Most elfoglalt vagyok"
+            },
+            {
+              "word": "Text me",
+              "meaning": "Írj üzenetet"
+            },
+            {
+              "word": "Call me back",
+              "meaning": "Hívj vissza"
+            },
+            {
+              "word": "I'll let you know",
+              "meaning": "Majd szólok"
+            },
+            {
+              "word": "Keep me posted",
+              "meaning": "Tarts tájékoztatva"
+            },
+            {
+              "word": "Fair enough",
+              "meaning": "Rendben van így is"
+            },
+            {
+              "word": "Totally",
+              "meaning": "Teljesen"
+            },
+            {
+              "word": "Exactly",
+              "meaning": "Pontosan"
+            },
+            {
+              "word": "I guess so",
+              "meaning": "Azt hiszem, igen"
+            },
+            {
+              "word": "No problem at all",
+              "meaning": "Egyáltalán nem gond"
+            },
+            {
+              "word": "My mistake",
+              "meaning": "Az én hibám"
+            },
+            {
+              "word": "Let's agree to disagree",
+              "meaning": "Maradjunk eltérő véleményen"
+            },
+            {
+              "word": "I'm on my way",
+              "meaning": "Úton vagyok"
+            },
+            {
+              "word": "I'm running late",
+              "meaning": "Késni fogok"
+            },
+            {
+              "word": "Traffic was bad",
+              "meaning": "Rossz volt a forgalom"
+            },
+            {
+              "word": "Can we meet halfway?",
+              "meaning": "Találkozhatunk félúton?"
+            },
+            {
+              "word": "What time works for you?",
+              "meaning": "Mikor lenne jó neked?"
+            },
+            {
+              "word": "I'll confirm later",
+              "meaning": "Később megerősítem"
+            },
+            {
+              "word": "Don't worry about it",
+              "meaning": "Ne aggódj miatta"
+            },
+            {
+              "word": "Take your time",
+              "meaning": "Ne siess"
+            },
+            {
+              "word": "Get well soon",
+              "meaning": "Jobbulást"
+            },
+            {
+              "word": "Congratulations on your success!",
+              "meaning": "Gratulálok a sikerhez!"
+            },
+            {
+              "word": "Happy birthday!",
+              "meaning": "Boldog születésnapot!"
+            },
+            {
+              "word": "Happy New Year!",
+              "meaning": "Boldog új évet!"
+            },
+            {
+              "word": "Merry Christmas!",
+              "meaning": "Boldog karácsonyt!"
+            },
+            {
+              "word": "Enjoy your meal!",
+              "meaning": "Jó étvágyat!"
+            },
+            {
+              "word": "Safe travels!",
+              "meaning": "Jó utat!"
+            },
+            {
+              "word": "Break a leg!",
+              "meaning": "Sok sikert! (színház)"
+            },
+            {
+              "word": "Knock on wood",
+              "meaning": "Fa kopogtatás (szerencsehozó babona)"
+            },
+            {
+              "word": "Count me in",
+              "meaning": "Számíts rám"
+            },
+            {
+              "word": "I'm broke",
+              "meaning": "Nincs egy vasam sem"
+            },
+            {
+              "word": "It's expensive",
+              "meaning": "Ez drága"
+            },
+            {
+              "word": "It's cheap",
+              "meaning": "Ez olcsó"
+            },
+            {
+              "word": "Can I pay by card?",
+              "meaning": "Kártyával fizethetek?"
+            },
+            {
+              "word": "Cash only",
+              "meaning": "Csak készpénz"
+            },
+            {
+              "word": "Where is the restroom?",
+              "meaning": "Hol a mosdó?"
+            },
+            {
+              "word": "I need help",
+              "meaning": "Segítségre van szükségem"
+            },
+            {
+              "word": "Call the police",
+              "meaning": "Hívd a rendőrséget"
+            },
+            {
+              "word": "I'm lost",
+              "meaning": "Eltévedtem"
+            },
+            {
+              "word": "Do you speak English?",
+              "meaning": "Beszél angolul?"
+            },
+            {
+              "word": "Do you speak German?",
+              "meaning": "Beszél németül?"
+            },
+            {
+              "word": "I speak a little …",
+              "meaning": "Egy kicsit beszélek …"
+            },
+            {
+              "word": "Could you write it down?",
+              "meaning": "Leírhatná?"
+            },
+            {
+              "word": "How much does it cost?",
+              "meaning": "Mennyibe kerül?"
+            },
+            {
+              "word": "Too expensive for me",
+              "meaning": "Nekem túl drága"
+            },
+            {
+              "word": "I'll think about it",
+              "meaning": "Meggondolom"
+            }
+          ]
+        }
+      }
+    },
+    "german": {
+      "topics": {
+        "otthon": {
+          "name": "Otthon",
+          "emoji": "🏠",
+          "words": [
+            {
+              "word": "der Sessel",
+              "meaning": "fotel"
+            },
+            {
+              "word": "das Bücherregal",
+              "meaning": "könyvespolc"
+            },
+            {
+              "word": "der Vorhang",
+              "meaning": "függöny"
+            },
+            {
+              "word": "die Schublade",
+              "meaning": "fiók"
+            },
+            {
+              "word": "der Kamin",
+              "meaning": "kandalló"
+            },
+            {
+              "word": "der Flur",
+              "meaning": "előszoba"
+            },
+            {
+              "word": "der Teppich",
+              "meaning": "szőnyeg"
+            },
+            {
+              "word": "die Decke",
+              "meaning": "mennyezet"
+            },
+            {
+              "word": "der Schornstein",
+              "meaning": "kémény"
+            },
+            {
+              "word": "die Klingel",
+              "meaning": "csengő"
+            },
+            {
+              "word": "der Wasserhahn",
+              "meaning": "csap"
+            },
+            {
+              "word": "die Garage",
+              "meaning": "garázs"
+            },
+            {
+              "word": "der Dachboden",
+              "meaning": "padlás"
+            },
+            {
+              "word": "der Keller",
+              "meaning": "pince"
+            },
+            {
+              "word": "der Balkon",
+              "meaning": "erkély"
+            },
+            {
+              "word": "die Waschmaschine",
+              "meaning": "mosógép"
+            },
+            {
+              "word": "der Staubsauger",
+              "meaning": "porszívó"
+            },
+            {
+              "word": "der Lichtschalter",
+              "meaning": "villanykapcsoló"
+            },
+            {
+              "word": "die Fensterbank",
+              "meaning": "ablakpárkány"
+            },
+            {
+              "word": "die Garderobe",
+              "meaning": "fogasállvány"
+            },
+            {
+              "word": "das Kissen",
+              "meaning": "párna"
+            },
+            {
+              "word": "die Decke",
+              "meaning": "takaró"
+            },
+            {
+              "word": "der Spiegel",
+              "meaning": "tükör"
+            },
+            {
+              "word": "das Handtuch",
+              "meaning": "törölköző"
+            },
+            {
+              "word": "die Seifenschale",
+              "meaning": "szappantartó"
+            },
+            {
+              "word": "der Mülleimer",
+              "meaning": "szemetes"
+            },
+            {
+              "word": "der Besen",
+              "meaning": "seprű"
+            },
+            {
+              "word": "die Kehrschaufel",
+              "meaning": "szemetes lapát"
+            },
+            {
+              "word": "das Bügelbrett",
+              "meaning": "vasalódeszka"
+            },
+            {
+              "word": "der Kleiderbügel",
+              "meaning": "ruhaakasztó"
+            },
+            {
+              "word": "das Bett machen",
+              "meaning": "Megvetni az ágyat"
+            },
+            {
+              "word": "den Müll rausbringen",
+              "meaning": "Kivinni a szemetet"
+            },
+            {
+              "word": "Geschirr spülen",
+              "meaning": "Elmosogatni"
+            },
+            {
+              "word": "den Boden saugen",
+              "meaning": "Porszívózni a padlót"
+            },
+            {
+              "word": "Wäsche aufhängen",
+              "meaning": "Felakasztani a mosott ruhát"
+            },
+            {
+              "word": "das Licht ausschalten",
+              "meaning": "Lekapcsolni a villanyt"
+            },
+            {
+              "word": "die Tür abschließen",
+              "meaning": "Bezárni az ajtót"
+            },
+            {
+              "word": "das Fenster öffnen",
+              "meaning": "Kinyitni az ablakot"
+            },
+            {
+              "word": "den Tisch decken",
+              "meaning": "Megteríteni az asztalt"
+            },
+            {
+              "word": "den Tisch abräumen",
+              "meaning": "Leszedni az asztalt"
+            },
+            {
+              "word": "das Regal",
+              "meaning": "polc"
+            },
+            {
+              "word": "der Heizkörper",
+              "meaning": "radiátor"
+            },
+            {
+              "word": "die Steckdose",
+              "meaning": "konnektor"
+            },
+            {
+              "word": "das Verlängerungskabel",
+              "meaning": "hosszabbító"
+            },
+            {
+              "word": "die Stehlampe",
+              "meaning": "állólámpa"
+            },
+            {
+              "word": "der Nachttisch",
+              "meaning": "éjjeliszekrény"
+            },
+            {
+              "word": "der Wäschekorb",
+              "meaning": "szennyeskosár"
+            },
+            {
+              "word": "das Abtropfgestell",
+              "meaning": "tányérszárító"
+            },
+            {
+              "word": "das Spülbecken",
+              "meaning": "mosogató"
+            },
+            {
+              "word": "die Abstellkammer",
+              "meaning": "kamra"
+            },
+            {
+              "word": "der Mixer",
+              "meaning": "turmixgép"
+            },
+            {
+              "word": "der Toaster",
+              "meaning": "kenyérpirító"
+            },
+            {
+              "word": "der Wasserkocher",
+              "meaning": "vízforraló"
+            },
+            {
+              "word": "die Mikrowelle",
+              "meaning": "mikró"
+            },
+            {
+              "word": "der Backofen",
+              "meaning": "sütő"
+            },
+            {
+              "word": "der Herd",
+              "meaning": "tűzhely"
+            },
+            {
+              "word": "der Kühlschrank",
+              "meaning": "hűtő"
+            },
+            {
+              "word": "die Gefriertruhe",
+              "meaning": "fagyasztóláda"
+            },
+            {
+              "word": "die Spülmaschine",
+              "meaning": "mosogatógép"
+            },
+            {
+              "word": "der Schwamm",
+              "meaning": "szivacs"
+            },
+            {
+              "word": "der Wischmopp",
+              "meaning": "felmosó"
+            },
+            {
+              "word": "der Eimer",
+              "meaning": "vödör"
+            },
+            {
+              "word": "die Leiter",
+              "meaning": "létra"
+            },
+            {
+              "word": "der Hammer",
+              "meaning": "kalapács"
+            },
+            {
+              "word": "der Schraubenzieher",
+              "meaning": "csavarhúzó"
+            },
+            {
+              "word": "der Bohrer",
+              "meaning": "fúró"
+            },
+            {
+              "word": "das Maßband",
+              "meaning": "mérőszalag"
+            },
+            {
+              "word": "der Pinsel",
+              "meaning": "ecset"
+            },
+            {
+              "word": "die Tapete",
+              "meaning": "tapéta"
+            },
+            {
+              "word": "die Jalousie",
+              "meaning": "redőny"
+            },
+            {
+              "word": "der Briefkasten",
+              "meaning": "postaláda"
+            },
+            {
+              "word": "der Zaun",
+              "meaning": "kerítés"
+            },
+            {
+              "word": "die Hecke",
+              "meaning": "sövény"
+            },
+            {
+              "word": "der Rasenmäher",
+              "meaning": "fűnyíró"
+            },
+            {
+              "word": "der Gartenschlauch",
+              "meaning": "locsolótömlő"
+            },
+            {
+              "word": "die Bewässerungsanlage",
+              "meaning": "öntöző"
+            },
+            {
+              "word": "das Thermostat",
+              "meaning": "termosztát"
+            },
+            {
+              "word": "der Rauchmelder",
+              "meaning": "füstjelző"
+            },
+            {
+              "word": "die Taschenlampe",
+              "meaning": "elemlámpa"
+            },
+            {
+              "word": "die Batterien",
+              "meaning": "elemek"
+            },
+            {
+              "word": "die Vase",
+              "meaning": "váza"
+            },
+            {
+              "word": "der Bilderrahmen",
+              "meaning": "képkeret"
+            },
+            {
+              "word": "die Wanduhr",
+              "meaning": "falióra"
+            },
+            {
+              "word": "der Kalender",
+              "meaning": "naptár"
+            },
+            {
+              "word": "die Bettdecke",
+              "meaning": "paplan"
+            },
+            {
+              "word": "das Spannbetttuch",
+              "meaning": "gumis lepedő"
+            },
+            {
+              "word": "der Kissenbezug",
+              "meaning": "párnahuzat"
+            },
+            {
+              "word": "der Kleiderschrank",
+              "meaning": "ruhásszekrény"
+            },
+            {
+              "word": "die Kommode",
+              "meaning": "komód"
+            },
+            {
+              "word": "die Badewanne",
+              "meaning": "kád"
+            },
+            {
+              "word": "der Duschkopf",
+              "meaning": "zuhanyfej"
+            },
+            {
+              "word": "die Saugglocke",
+              "meaning": "wc-pumpa"
+            },
+            {
+              "word": "das Waschmittel",
+              "meaning": "mosószer"
+            },
+            {
+              "word": "der Weichspüler",
+              "meaning": "öblítő"
+            },
+            {
+              "word": "die Wäscheklammer",
+              "meaning": "csipesz (ruhára)"
+            },
+            {
+              "word": "der Wäscheständer",
+              "meaning": "szárítóállvány"
+            },
+            {
+              "word": "die Schere",
+              "meaning": "olló"
+            },
+            {
+              "word": "der Sicherungskasten",
+              "meaning": "biztosítéktábla"
+            },
+            {
+              "word": "der Türgriff",
+              "meaning": "kilincs"
+            },
+            {
+              "word": "der Fensterrahmen",
+              "meaning": "ablakkeret"
+            },
+            {
+              "word": "das Dachfenster",
+              "meaning": "tetőablak"
+            },
+            {
+              "word": "der Hocker",
+              "meaning": "zsámoly"
+            },
+            {
+              "word": "der Läufer",
+              "meaning": "futószőnyeg"
+            },
+            {
+              "word": "das Sofakissen",
+              "meaning": "díszpárna"
+            },
+            {
+              "word": "der Medikamentenschrank",
+              "meaning": "gyógyszerszekrény"
+            },
+            {
+              "word": "die Werkzeugkiste",
+              "meaning": "szerszámosláda"
+            },
+            {
+              "word": "die Nägel",
+              "meaning": "szögek"
+            },
+            {
+              "word": "die Steckdosenleiste",
+              "meaning": "elosztó"
+            },
+            {
+              "word": "die Ausziehleiter",
+              "meaning": "csőlétra"
+            },
+            {
+              "word": "die Fußmatte",
+              "meaning": "lábtörlő"
+            },
+            {
+              "word": "der Fensterladen",
+              "meaning": "zsalugáter"
+            },
+            {
+              "word": "der Luftbefeuchter",
+              "meaning": "párásító"
+            },
+            {
+              "word": "der Luftreiniger",
+              "meaning": "légtisztító"
+            },
+            {
+              "word": "der Staubsaugerbeutel",
+              "meaning": "porzsák"
+            },
+            {
+              "word": "die Müllbeutel",
+              "meaning": "szemeteszsák"
+            },
+            {
+              "word": "die Recyclingtonne",
+              "meaning": "szelektív szemetes"
+            },
+            {
+              "word": "der Komposter",
+              "meaning": "komposztáló"
+            },
+            {
+              "word": "der Tritthocker",
+              "meaning": "fellépő zsámoly"
+            },
+            {
+              "word": "das Eckregal",
+              "meaning": "sarokpolc"
+            },
+            {
+              "word": "der Kleiderständer",
+              "meaning": "álló fogas"
+            }
+          ]
+        },
+        "etel_ital": {
+          "name": "Étel & Ital",
+          "emoji": "🍎",
+          "words": [
+            {
+              "word": "das Rührei",
+              "meaning": "rántotta"
+            },
+            {
+              "word": "der Haferbrei",
+              "meaning": "zabkása"
+            },
+            {
+              "word": "das Sauerteigbrot",
+              "meaning": "kovászos kenyér"
+            },
+            {
+              "word": "der Frischkäse",
+              "meaning": "krémsajt"
+            },
+            {
+              "word": "das Sprudelwasser",
+              "meaning": "szénsavas víz"
+            },
+            {
+              "word": "der Smoothie",
+              "meaning": "turmix"
+            },
+            {
+              "word": "die Reste",
+              "meaning": "maradék étel"
+            },
+            {
+              "word": "zum Mitnehmen",
+              "meaning": "elvitel (étel)"
+            },
+            {
+              "word": "das Rezept",
+              "meaning": "recept"
+            },
+            {
+              "word": "die Zutat",
+              "meaning": "hozzávaló"
+            },
+            {
+              "word": "die Portion",
+              "meaning": "adag"
+            },
+            {
+              "word": "die Würze",
+              "meaning": "fűszerezés"
+            },
+            {
+              "word": "das Dressing",
+              "meaning": "öntet (salátához)"
+            },
+            {
+              "word": "die Vorspeise",
+              "meaning": "előétel"
+            },
+            {
+              "word": "das Hauptgericht",
+              "meaning": "főétel"
+            },
+            {
+              "word": "der Nachtisch",
+              "meaning": "desszert"
+            },
+            {
+              "word": "die Beilage",
+              "meaning": "köret"
+            },
+            {
+              "word": "der Snack",
+              "meaning": "nassolnivaló"
+            },
+            {
+              "word": "die Einkaufsliste",
+              "meaning": "bevásárlólista"
+            },
+            {
+              "word": "Ich verhungere",
+              "meaning": "Éhen halok"
+            },
+            {
+              "word": "Könnte ich die Rechnung haben?",
+              "meaning": "Kérhetem a számlát?"
+            },
+            {
+              "word": "Es ist köstlich!",
+              "meaning": "Nagyon finom!"
+            },
+            {
+              "word": "Ich bin satt",
+              "meaning": "Jóllaktam"
+            },
+            {
+              "word": "Kann ich nachbestellen?",
+              "meaning": "Kaphatok még egyet?"
+            },
+            {
+              "word": "die Aubergine",
+              "meaning": "padlizsán"
+            },
+            {
+              "word": "die Zucchini",
+              "meaning": "cukkini"
+            },
+            {
+              "word": "der Lauch",
+              "meaning": "póréhagyma"
+            },
+            {
+              "word": "die Rote Bete",
+              "meaning": "cékla"
+            },
+            {
+              "word": "die Heidelbeere",
+              "meaning": "áfonya"
+            },
+            {
+              "word": "die Himbeere",
+              "meaning": "málna"
+            },
+            {
+              "word": "der Pfirsich",
+              "meaning": "őszibarack"
+            },
+            {
+              "word": "die Pflaume",
+              "meaning": "szilva"
+            },
+            {
+              "word": "die Walnuss",
+              "meaning": "dió"
+            },
+            {
+              "word": "die Kastanie",
+              "meaning": "gesztenye"
+            },
+            {
+              "word": "der Zimt",
+              "meaning": "fahéj"
+            },
+            {
+              "word": "der Ingwer",
+              "meaning": "gyömbér"
+            },
+            {
+              "word": "die Kurkuma",
+              "meaning": "kurkuma"
+            },
+            {
+              "word": "der Rosmarin",
+              "meaning": "rozmaring"
+            },
+            {
+              "word": "der Thymian",
+              "meaning": "kakukkfű"
+            },
+            {
+              "word": "die Pfanne",
+              "meaning": "serpenyő"
+            },
+            {
+              "word": "die Schöpfkelle",
+              "meaning": "merőkanál"
+            },
+            {
+              "word": "der Schneebesen",
+              "meaning": "habverő"
+            },
+            {
+              "word": "das Schneidebrett",
+              "meaning": "vágódeszka"
+            },
+            {
+              "word": "das Sieb",
+              "meaning": "szűrő/lecsepegető"
+            },
+            {
+              "word": "das Backblech",
+              "meaning": "sütőtepsi"
+            },
+            {
+              "word": "der Ofenhandschuh",
+              "meaning": "sütőkesztyű"
+            },
+            {
+              "word": "der Korkenzieher",
+              "meaning": "dugóhúzó"
+            },
+            {
+              "word": "der Flaschenöffner",
+              "meaning": "sörnyitó"
+            },
+            {
+              "word": "die Thermoskanne",
+              "meaning": "termosz"
+            },
+            {
+              "word": "die Frittierpfanne",
+              "meaning": "fritőz"
+            },
+            {
+              "word": "die Erdbeere",
+              "meaning": "eper"
+            },
+            {
+              "word": "die Kirsche",
+              "meaning": "cseresznye"
+            },
+            {
+              "word": "die Trauben",
+              "meaning": "szőlő"
+            },
+            {
+              "word": "die Melone",
+              "meaning": "dinnye"
+            },
+            {
+              "word": "die Wassermelone",
+              "meaning": "görögdinnye"
+            },
+            {
+              "word": "der Salat",
+              "meaning": "saláta (levél)"
+            },
+            {
+              "word": "der Spinat",
+              "meaning": "spenót"
+            },
+            {
+              "word": "der Brokkoli",
+              "meaning": "brokkoli"
+            },
+            {
+              "word": "der Blumenkohl",
+              "meaning": "karfiol"
+            },
+            {
+              "word": "der Kohl",
+              "meaning": "káposzta"
+            },
+            {
+              "word": "die Paprika",
+              "meaning": "paprika (zöldség)"
+            },
+            {
+              "word": "die Chili",
+              "meaning": "csípős paprika"
+            },
+            {
+              "word": "der Mais",
+              "meaning": "kukorica"
+            },
+            {
+              "word": "die Erbsen",
+              "meaning": "borsó"
+            },
+            {
+              "word": "die Bohnen",
+              "meaning": "bab"
+            },
+            {
+              "word": "die Linsen",
+              "meaning": "lencse"
+            },
+            {
+              "word": "die Kichererbsen",
+              "meaning": "csicseriborsó"
+            },
+            {
+              "word": "der Reis",
+              "meaning": "rizs"
+            },
+            {
+              "word": "die Pasta",
+              "meaning": "tészta"
+            },
+            {
+              "word": "die Nudeln",
+              "meaning": "metélt/tészta"
+            },
+            {
+              "word": "das Mehl",
+              "meaning": "liszt"
+            },
+            {
+              "word": "die Hefe",
+              "meaning": "élesztő"
+            },
+            {
+              "word": "die Butter",
+              "meaning": "vaj"
+            },
+            {
+              "word": "das Olivenöl",
+              "meaning": "olívaolaj"
+            },
+            {
+              "word": "der Essig",
+              "meaning": "ecet"
+            },
+            {
+              "word": "die Sojasauce",
+              "meaning": "szójaszósz"
+            },
+            {
+              "word": "der Honig",
+              "meaning": "méz"
+            },
+            {
+              "word": "die Marmelade",
+              "meaning": "lekvár"
+            },
+            {
+              "word": "die Erdnussbutter",
+              "meaning": "mogyoróvaj"
+            },
+            {
+              "word": "der Joghurt",
+              "meaning": "joghurt"
+            },
+            {
+              "word": "der Quark",
+              "meaning": "túró"
+            },
+            {
+              "word": "die Sahne",
+              "meaning": "tejszín"
+            },
+            {
+              "word": "der Senf",
+              "meaning": "mustár"
+            },
+            {
+              "word": "der Ketchup",
+              "meaning": "ketchup"
+            },
+            {
+              "word": "die Mayonnaise",
+              "meaning": "majnéz"
+            },
+            {
+              "word": "das Salz",
+              "meaning": "só"
+            },
+            {
+              "word": "der schwarze Pfeffer",
+              "meaning": "fekete bors"
+            },
+            {
+              "word": "das Paprikapulver",
+              "meaning": "őrölt fűszerpaprika"
+            },
+            {
+              "word": "das Basilikum",
+              "meaning": "bazsalikom"
+            },
+            {
+              "word": "der Oregano",
+              "meaning": "oreganó"
+            },
+            {
+              "word": "die Petersilie",
+              "meaning": "petrezselyem"
+            },
+            {
+              "word": "der Dill",
+              "meaning": "kapor"
+            },
+            {
+              "word": "die Minze",
+              "meaning": "menta"
+            },
+            {
+              "word": "der Kochtopf",
+              "meaning": "leveses fazék"
+            },
+            {
+              "word": "der Deckel",
+              "meaning": "fedő"
+            },
+            {
+              "word": "das Nudelholz",
+              "meaning": "nyújtófa"
+            },
+            {
+              "word": "die Reibe",
+              "meaning": "reszelő"
+            },
+            {
+              "word": "das Schälmesser",
+              "meaning": "hámozó"
+            },
+            {
+              "word": "der Dosenöffner",
+              "meaning": "konzervnyitó"
+            },
+            {
+              "word": "die Messkanne",
+              "meaning": "mérőedény"
+            },
+            {
+              "word": "die Küchenuhr",
+              "meaning": "konyhai időzítő"
+            },
+            {
+              "word": "die Frischhaltedose",
+              "meaning": "ételtároló doboz"
+            },
+            {
+              "word": "die Frischhaltefolie",
+              "meaning": "folpack"
+            },
+            {
+              "word": "die Alufolie",
+              "meaning": "alufólia"
+            },
+            {
+              "word": "das Küchenpapír",
+              "meaning": "papírtörlő"
+            },
+            {
+              "word": "die Serviette",
+              "meaning": "szalvéta"
+            },
+            {
+              "word": "Ich habe Durst",
+              "meaning": "Szomjas vagyok"
+            },
+            {
+              "word": "Guten Appetit",
+              "meaning": "Jó étvágyat"
+            },
+            {
+              "word": "Prost!",
+              "meaning": "Egészségedre!"
+            },
+            {
+              "word": "Ich bin allergisch gegen Nüsse",
+              "meaning": "Allergiás vagyok a diófélékre"
+            },
+            {
+              "word": "Ohne Zucker, bitte",
+              "meaning": "Cukor nélkül, kérem"
+            },
+            {
+              "word": "Leitungswasser ist in Ordnung",
+              "meaning": "Csapvíz jó"
+            },
+            {
+              "word": "Können wir die Rechnung teilen?",
+              "meaning": "Oszthatjuk a számlát?"
+            },
+            {
+              "word": "Ich nehme dasselbe",
+              "meaning": "Ugyanazt kérem"
+            },
+            {
+              "word": "medium",
+              "meaning": "átsült/közepesen sült (hús)"
+            },
+            {
+              "word": "die vegetarische Option",
+              "meaning": "vegetáriánus fogás"
+            },
+            {
+              "word": "glutenfrei",
+              "meaning": "gluténmentes"
+            },
+            {
+              "word": "laktosefrei",
+              "meaning": "laktózmentes"
+            },
+            {
+              "word": "die Take-away-Schachtel",
+              "meaning": "elvitel doboz"
+            },
+            {
+              "word": "die Restepackung",
+              "meaning": "maradék elviteles doboz"
+            }
+          ]
+        },
+        "munka_iroda": {
+          "name": "Munka & Iroda",
+          "emoji": "💼",
+          "words": [
+            {
+              "word": "die Frist",
+              "meaning": "határidő"
+            },
+            {
+              "word": "die Besprechung",
+              "meaning": "értekezlet"
+            },
+            {
+              "word": "die Tabelle",
+              "meaning": "táblázat"
+            },
+            {
+              "word": "die Rechnung",
+              "meaning": "számla (üzleti)"
+            },
+            {
+              "word": "der Vertrag",
+              "meaning": "szerződés"
+            },
+            {
+              "word": "der Kollege",
+              "meaning": "kolléga"
+            },
+            {
+              "word": "der Vorgesetzte",
+              "meaning": "felettes"
+            },
+            {
+              "word": "der Angestellte",
+              "meaning": "alkalmazott"
+            },
+            {
+              "word": "der Arbeitgeber",
+              "meaning": "munkáltató"
+            },
+            {
+              "word": "das Gehalt",
+              "meaning": "fizetés"
+            },
+            {
+              "word": "die Beförderung",
+              "meaning": "előléptetés"
+            },
+            {
+              "word": "die Kündigung",
+              "meaning": "felmondás"
+            },
+            {
+              "word": "die Heimarbeit",
+              "meaning": "távmunka"
+            },
+            {
+              "word": "die Überstunden",
+              "meaning": "túlóra"
+            },
+            {
+              "word": "die Schicht",
+              "meaning": "műszak"
+            },
+            {
+              "word": "das Feedback",
+              "meaning": "visszajelzés"
+            },
+            {
+              "word": "das Brainstorming",
+              "meaning": "ötletelés"
+            },
+            {
+              "word": "die Präsentation",
+              "meaning": "előadás/bemutató"
+            },
+            {
+              "word": "das Budget",
+              "meaning": "költségvetés"
+            },
+            {
+              "word": "der Projektleiter",
+              "meaning": "projektmenedzser"
+            },
+            {
+              "word": "Lass uns ein Meeting vereinbaren",
+              "meaning": "Ütemezzünk be egy megbeszélést"
+            },
+            {
+              "word": "Ich schicke dir eine E-Mail",
+              "meaning": "Küldök neked egy emailt"
+            },
+            {
+              "word": "Können wir verschieben?",
+              "meaning": "Át tudjuk ütemezni?"
+            },
+            {
+              "word": "Ich arbeite daran",
+              "meaning": "Dolgozom rajta"
+            },
+            {
+              "word": "Was ist die Frist?",
+              "meaning": "Mi a határidő?"
+            },
+            {
+              "word": "der Hefter",
+              "meaning": "tűzőgép"
+            },
+            {
+              "word": "die Büroklammer",
+              "meaning": "gemkapocs"
+            },
+            {
+              "word": "der Haftzettel",
+              "meaning": "öntapadós cetli"
+            },
+            {
+              "word": "das Whiteboard",
+              "meaning": "fehértábla"
+            },
+            {
+              "word": "der Projektor",
+              "meaning": "kivetítő"
+            },
+            {
+              "word": "der Kopfhörer",
+              "meaning": "fejhallgató"
+            },
+            {
+              "word": "das Ladekabel",
+              "meaning": "töltő"
+            },
+            {
+              "word": "das Passwort",
+              "meaning": "jelszó"
+            },
+            {
+              "word": "der Anhang",
+              "meaning": "melléklet (email)"
+            },
+            {
+              "word": "der Posteingang",
+              "meaning": "bejövő levelek"
+            },
+            {
+              "word": "außer Haus",
+              "meaning": "irodán kívül"
+            },
+            {
+              "word": "die Telefonkonferenz",
+              "meaning": "telefonkonferencia"
+            },
+            {
+              "word": "die Tagesordnung",
+              "meaning": "napirend"
+            },
+            {
+              "word": "das Protokoll",
+              "meaning": "jegyzőkönyv"
+            },
+            {
+              "word": "die Arbeitsbelastung",
+              "meaning": "munkaterhelés"
+            },
+            {
+              "word": "die Aufgabe",
+              "meaning": "feladat"
+            },
+            {
+              "word": "die Priorität",
+              "meaning": "prioritás"
+            },
+            {
+              "word": "der Bericht",
+              "meaning": "jelentés"
+            },
+            {
+              "word": "der Entwurf",
+              "meaning": "vázlat/piszkozat"
+            },
+            {
+              "word": "die Genehmigung",
+              "meaning": "jóváhagyás"
+            },
+            {
+              "word": "die Unterschrift",
+              "meaning": "aláírás"
+            },
+            {
+              "word": "der Ordner",
+              "meaning": "mappa"
+            },
+            {
+              "word": "der Aktenschrank",
+              "meaning": "irattároló szekrény"
+            },
+            {
+              "word": "die Visitenkarte",
+              "meaning": "névjegykártya"
+            },
+            {
+              "word": "das Vorstellungsgespräch",
+              "meaning": "állásinterjú"
+            },
+            {
+              "word": "das Praktikum",
+              "meaning": "gyakornokság"
+            },
+            {
+              "word": "die Probezeit",
+              "meaning": "próbaidő"
+            },
+            {
+              "word": "die Gehaltserhöhung",
+              "meaning": "fizetésemelés"
+            },
+            {
+              "word": "die Prämie",
+              "meaning": "prémium"
+            },
+            {
+              "word": "die Rechnungsnummer",
+              "meaning": "számlaszám"
+            },
+            {
+              "word": "der Bestellauftrag",
+              "meaning": "megrendelőlap"
+            },
+            {
+              "word": "die Stundenzettel",
+              "meaning": "munkaidő-nyilvántartás"
+            },
+            {
+              "word": "die Gehaltsabrechnung",
+              "meaning": "bérjegyzék"
+            },
+            {
+              "word": "die Steuer-ID",
+              "meaning": "adóazonosító"
+            },
+            {
+              "word": "die Geschäftsreise",
+              "meaning": "üzleti út"
+            },
+            {
+              "word": "die Spesenabrechnung",
+              "meaning": "költségelszámolás"
+            },
+            {
+              "word": "die Quittung",
+              "meaning": "nyugta"
+            },
+            {
+              "word": "die Kilometerpauschale",
+              "meaning": "útiköltség"
+            },
+            {
+              "word": "das VPN",
+              "meaning": "VPN"
+            },
+            {
+              "word": "der Screenshot",
+              "meaning": "képernyőkép"
+            },
+            {
+              "word": "der Videoanruf",
+              "meaning": "videóhívás"
+            },
+            {
+              "word": "die freigegebene Ablage",
+              "meaning": "megosztott meghajtó"
+            },
+            {
+              "word": "die Kalendereinladung",
+              "meaning": "naptármeghívó"
+            },
+            {
+              "word": "krankgeschrieben",
+              "meaning": "betegállományban"
+            },
+            {
+              "word": "der Krankenstand",
+              "meaning": "betegszabadság"
+            },
+            {
+              "word": "die Urlaubstage",
+              "meaning": "szabadnapok"
+            },
+            {
+              "word": "der Feiertag",
+              "meaning": "ünnepnap"
+            },
+            {
+              "word": "die Personalabteilung",
+              "meaning": "HR osztály"
+            },
+            {
+              "word": "der IT-Support",
+              "meaning": "IT ügyfélszolgálat"
+            },
+            {
+              "word": "das Ticket",
+              "meaning": "hibajegy"
+            },
+            {
+              "word": "das Passwort zurücksetzen",
+              "meaning": "jelszó visszaállítás"
+            },
+            {
+              "word": "die Zwei-Faktor-Authentifizierung",
+              "meaning": "kétlépcsős azonosítás"
+            },
+            {
+              "word": "die Geheimhaltungsvereinbarung",
+              "meaning": "titoktartási szerződés"
+            },
+            {
+              "word": "die KPI",
+              "meaning": "KPI / kulcsmutató"
+            },
+            {
+              "word": "die OKRs",
+              "meaning": "OKR célok"
+            },
+            {
+              "word": "die Roadmap",
+              "meaning": "útitervek"
+            },
+            {
+              "word": "der Stakeholder",
+              "meaning": "érdekelt fél"
+            },
+            {
+              "word": "der Lieferant",
+              "meaning": "beszállító"
+            },
+            {
+              "word": "der Kunde",
+              "meaning": "ügyfél"
+            },
+            {
+              "word": "überfällige Rechnung",
+              "meaning": "lejárt határidejű számla"
+            },
+            {
+              "word": "die Follow-up-E-Mail",
+              "meaning": "emlékeztető email"
+            },
+            {
+              "word": "Schreib mir kurz",
+              "meaning": "Írj rám / pingelj"
+            },
+            {
+              "word": "jemanden in CC setzen",
+              "meaning": "bevonni valakit (CC)"
+            },
+            {
+              "word": "ein kurzer Hinweis",
+              "meaning": "előzetes értesítés"
+            },
+            {
+              "word": "zu deiner Information",
+              "meaning": "tájékoztatásul"
+            },
+            {
+              "word": "so bald wie möglich",
+              "meaning": "amint lehet"
+            },
+            {
+              "word": "Ende des Arbeitstags",
+              "meaning": "munkanap vége"
+            },
+            {
+              "word": "Heute im Homeoffice",
+              "meaning": "Ma távmunka"
+            },
+            {
+              "word": "die Kapazität",
+              "meaning": "kapacitás"
+            },
+            {
+              "word": "der Scope Creep",
+              "meaning": "feladatkör szétfolyása"
+            },
+            {
+              "word": "die Übergabe",
+              "meaning": "átadás"
+            },
+            {
+              "word": "das Onboarding",
+              "meaning": "beköszöntetés"
+            },
+            {
+              "word": "das Offboarding",
+              "meaning": "kilépés folyamata"
+            },
+            {
+              "word": "das Leistungsgespräch",
+              "meaning": "teljesítményértékelés"
+            },
+            {
+              "word": "das Einzelgespräch",
+              "meaning": "egy az egyben beszélgetés"
+            },
+            {
+              "word": "das Skip-Level-Meeting",
+              "meaning": "átugrott szintű megbeszélés"
+            },
+            {
+              "word": "das Daily Stand-up",
+              "meaning": "napi stand-up"
+            },
+            {
+              "word": "die Protokollführung",
+              "meaning": "jegyzőkönyvvezető"
+            },
+            {
+              "word": "die Aufgaben",
+              "meaning": "feladatlista"
+            },
+            {
+              "word": "das Hindernis",
+              "meaning": "akadály"
+            },
+            {
+              "word": "die Abhängigkeit",
+              "meaning": "függőség"
+            },
+            {
+              "word": "die Risikobewertung",
+              "meaning": "kockázatelemzés"
+            },
+            {
+              "word": "der Rollback-Plan",
+              "meaning": "visszaállítási terv"
+            },
+            {
+              "word": "der Hotfix",
+              "meaning": "gyors javítás"
+            },
+            {
+              "word": "die Release Notes",
+              "meaning": "kiadási megjegyzések"
+            },
+            {
+              "word": "der Beta-Test",
+              "meaning": "béta teszt"
+            },
+            {
+              "word": "die Präsentationskopie",
+              "meaning": "bemutató másolat"
+            },
+            {
+              "word": "die Notiz",
+              "meaning": "jegyzőkönyv/memos"
+            },
+            {
+              "word": "der Briefkopf",
+              "meaning": "levélpapír fejléc"
+            },
+            {
+              "word": "das Wasserzeichen",
+              "meaning": "digitális vízjel"
+            },
+            {
+              "word": "der QR-Code",
+              "meaning": "QR-kód"
+            },
+            {
+              "word": "der Strichcode",
+              "meaning": "vonalkód"
+            },
+            {
+              "word": "die Büromaterialien",
+              "meaning": "irodaszer"
+            },
+            {
+              "word": "die Druckerpatrone",
+              "meaning": "nyomtatópatron"
+            },
+            {
+              "word": "das Papierstau",
+              "meaning": "papírelakadás"
+            }
+          ]
+        },
+        "termeszet_idojaras": {
+          "name": "Természet & Időjárás",
+          "emoji": "🌿",
+          "words": [
+            {
+              "word": "das Gewitter",
+              "meaning": "zivatar"
+            },
+            {
+              "word": "der Hagel",
+              "meaning": "jégeső"
+            },
+            {
+              "word": "der Nieselregen",
+              "meaning": "szitálás/szemerkélés"
+            },
+            {
+              "word": "der Nebel",
+              "meaning": "köd"
+            },
+            {
+              "word": "der Frost",
+              "meaning": "fagy/dér"
+            },
+            {
+              "word": "die Hitzewelle",
+              "meaning": "hőhullám"
+            },
+            {
+              "word": "die Brise",
+              "meaning": "szellő"
+            },
+            {
+              "word": "die Windböe",
+              "meaning": "széllökés"
+            },
+            {
+              "word": "die Luftfeuchtigkeit",
+              "meaning": "páratartalom"
+            },
+            {
+              "word": "die Wettervorhersage",
+              "meaning": "időjárás-előrejelzés"
+            },
+            {
+              "word": "Es schüttet",
+              "meaning": "Szakad az eső"
+            },
+            {
+              "word": "Es ist eiskalt",
+              "meaning": "Csikorgó hideg van"
+            },
+            {
+              "word": "Es ist schwül",
+              "meaning": "Fülledt az idő"
+            },
+            {
+              "word": "Die Sonne scheint",
+              "meaning": "Süt a nap"
+            },
+            {
+              "word": "Ein Sturm zieht auf",
+              "meaning": "Vihar közeledik"
+            },
+            {
+              "word": "die Klippe",
+              "meaning": "sziklapart/szirt"
+            },
+            {
+              "word": "das Tal",
+              "meaning": "völgy"
+            },
+            {
+              "word": "die Wiese",
+              "meaning": "rét"
+            },
+            {
+              "word": "der Sumpf",
+              "meaning": "mocsár"
+            },
+            {
+              "word": "der Wasserfall",
+              "meaning": "vízesés"
+            },
+            {
+              "word": "der Gletscher",
+              "meaning": "gleccser"
+            },
+            {
+              "word": "der Bergrücken",
+              "meaning": "hegygerinc"
+            },
+            {
+              "word": "das Ufer",
+              "meaning": "partvidék"
+            },
+            {
+              "word": "die Gezeiten",
+              "meaning": "dagály/apály"
+            },
+            {
+              "word": "die Welle",
+              "meaning": "hullám"
+            },
+            {
+              "word": "die Eiche",
+              "meaning": "tölgyfa"
+            },
+            {
+              "word": "die Kiefer",
+              "meaning": "fenyőfa"
+            },
+            {
+              "word": "die Birke",
+              "meaning": "nyírfa"
+            },
+            {
+              "word": "die Weide",
+              "meaning": "fűzfa"
+            },
+            {
+              "word": "das Moos",
+              "meaning": "moha"
+            },
+            {
+              "word": "der Farn",
+              "meaning": "páfrány"
+            },
+            {
+              "word": "der Pilz",
+              "meaning": "gomba"
+            },
+            {
+              "word": "die Eichel",
+              "meaning": "makk"
+            },
+            {
+              "word": "der Tannenzapfen",
+              "meaning": "toboz"
+            },
+            {
+              "word": "der Igel",
+              "meaning": "sün"
+            },
+            {
+              "word": "der Fuchs",
+              "meaning": "róka"
+            },
+            {
+              "word": "der Hirsch",
+              "meaning": "szarvas"
+            },
+            {
+              "word": "die Eule",
+              "meaning": "bagoly"
+            },
+            {
+              "word": "die Fledermaus",
+              "meaning": "denevér"
+            },
+            {
+              "word": "die Libelle",
+              "meaning": "szitakötő"
+            },
+            {
+              "word": "der Schmetterling",
+              "meaning": "pillangó"
+            },
+            {
+              "word": "der Regenwurm",
+              "meaning": "földigiliszta"
+            },
+            {
+              "word": "die Schnecke",
+              "meaning": "csiga"
+            },
+            {
+              "word": "der Marienkäfer",
+              "meaning": "katicabogár"
+            },
+            {
+              "word": "der Regenbogen",
+              "meaning": "szivárvány"
+            },
+            {
+              "word": "der Sonnenaufgang",
+              "meaning": "napkelte"
+            },
+            {
+              "word": "der Sonnenuntergang",
+              "meaning": "naplemente"
+            },
+            {
+              "word": "der Vollmond",
+              "meaning": "telihold"
+            },
+            {
+              "word": "die Sternschnuppe",
+              "meaning": "hullócsillag"
+            },
+            {
+              "word": "das Nordlicht",
+              "meaning": "sarki fény"
+            },
+            {
+              "word": "der Blitz",
+              "meaning": "villám"
+            },
+            {
+              "word": "der Donner",
+              "meaning": "mennydörgés"
+            },
+            {
+              "word": "die Schneeflocke",
+              "meaning": "hópehely"
+            },
+            {
+              "word": "der Schneesturm",
+              "meaning": "hóvihar"
+            },
+            {
+              "word": "der Graupel",
+              "meaning": "dara/havas eső"
+            },
+            {
+              "word": "die Lawine",
+              "meaning": "lavina"
+            },
+            {
+              "word": "die Dürre",
+              "meaning": "aszály"
+            },
+            {
+              "word": "die Flut",
+              "meaning": "árvíz"
+            },
+            {
+              "word": "das Waldbrand",
+              "meaning": "erdőtűz"
+            },
+            {
+              "word": "das Erdbeben",
+              "meaning": "földrengés"
+            },
+            {
+              "word": "der Vulkan",
+              "meaning": "vulkán"
+            },
+            {
+              "word": "der Krater",
+              "meaning": "kráter"
+            },
+            {
+              "word": "der Geysir",
+              "meaning": "gejzír"
+            },
+            {
+              "word": "die Thermalquelle",
+              "meaning": "termálvíz/forrás"
+            },
+            {
+              "word": "der Canyon",
+              "meaning": "szurdok"
+            },
+            {
+              "word": "das Plateau",
+              "meaning": "fennsík"
+            },
+            {
+              "word": "das Delta",
+              "meaning": "delta"
+            },
+            {
+              "word": "das Sumpfland",
+              "meaning": "ingovány"
+            },
+            {
+              "word": "das Schilf",
+              "meaning": "nád"
+            },
+            {
+              "word": "der Kieselstein",
+              "meaning": "kavics"
+            },
+            {
+              "word": "die Sanddüne",
+              "meaning": "homokdűne"
+            },
+            {
+              "word": "der Tornado",
+              "meaning": "tornádó"
+            },
+            {
+              "word": "der Hurrikan",
+              "meaning": "hurrikán"
+            },
+            {
+              "word": "der Zyklon",
+              "meaning": "ciklon"
+            },
+            {
+              "word": "der Windchill-Faktor",
+              "meaning": "szélhűtés hatása"
+            },
+            {
+              "word": "der UV-Index",
+              "meaning": "UV-index"
+            },
+            {
+              "word": "die Pollenbelastung",
+              "meaning": "pollenszám"
+            },
+            {
+              "word": "die Jahreszeit",
+              "meaning": "évszak"
+            },
+            {
+              "word": "die Sonnenwende",
+              "meaning": "napforduló"
+            },
+            {
+              "word": "die Tagundnachtgleiche",
+              "meaning": "napéjegyenlőség"
+            },
+            {
+              "word": "das Tauwetter",
+              "meaning": "melegedés/tavaszi olvadás"
+            },
+            {
+              "word": "die Ernte",
+              "meaning": "aratás"
+            },
+            {
+              "word": "die Feldfrucht",
+              "meaning": "termény"
+            },
+            {
+              "word": "der Traktor",
+              "meaning": "traktor"
+            },
+            {
+              "word": "der Bienenstock",
+              "meaning": "méhkas"
+            },
+            {
+              "word": "der Stock",
+              "meaning": "kas"
+            },
+            {
+              "word": "der Bestäuber",
+              "meaning": "megporzó"
+            },
+            {
+              "word": "das Nest",
+              "meaning": "fészek"
+            },
+            {
+              "word": "die Höhle (Tier)",
+              "meaning": "barlang/búvóhely"
+            },
+            {
+              "word": "der Bau",
+              "meaning": "üreg"
+            },
+            {
+              "word": "die Spuren",
+              "meaning": "nyomok"
+            },
+            {
+              "word": "die Fußspuren",
+              "meaning": "lábnyom"
+            },
+            {
+              "word": "der Wanderweg",
+              "meaning": "ösvény"
+            },
+            {
+              "word": "der Gipfel",
+              "meaning": "csúcs"
+            },
+            {
+              "word": "die Höhe",
+              "meaning": "magasság"
+            },
+            {
+              "word": "der Kompass",
+              "meaning": "iránytű"
+            },
+            {
+              "word": "die Landkarte",
+              "meaning": "térkép"
+            },
+            {
+              "word": "das Gezeitentümpel",
+              "meaning": "dagálymedence"
+            },
+            {
+              "word": "die Koralle",
+              "meaning": "korall"
+            },
+            {
+              "word": "der Seetang",
+              "meaning": "hínár"
+            },
+            {
+              "word": "die Muschel",
+              "meaning": "kagyló"
+            },
+            {
+              "word": "die Krabbe",
+              "meaning": "rák"
+            },
+            {
+              "word": "die Qualle",
+              "meaning": "medúza"
+            },
+            {
+              "word": "die Möwe",
+              "meaning": "sirály"
+            },
+            {
+              "word": "der Adler",
+              "meaning": "sas"
+            },
+            {
+              "word": "der Habicht",
+              "meaning": "sólyom"
+            },
+            {
+              "word": "der Rabe",
+              "meaning": "holló"
+            },
+            {
+              "word": "der Wolf",
+              "meaning": "farkas"
+            },
+            {
+              "word": "der Bär",
+              "meaning": "medve"
+            },
+            {
+              "word": "der Hase",
+              "meaning": "nyúl"
+            },
+            {
+              "word": "das Eichhörnchen",
+              "meaning": "mókus"
+            },
+            {
+              "word": "der Biber",
+              "meaning": "hód"
+            },
+            {
+              "word": "der Otter",
+              "meaning": "vidra"
+            },
+            {
+              "word": "der Bach",
+              "meaning": "patak"
+            },
+            {
+              "word": "der Teich",
+              "meaning": "tó (kis)"
+            },
+            {
+              "word": "der See",
+              "meaning": "tó"
+            },
+            {
+              "word": "der Fluss",
+              "meaning": "folyó"
+            },
+            {
+              "word": "die Wiesenblume",
+              "meaning": "réti virág"
+            },
+            {
+              "word": "die Flechte",
+              "meaning": "zuzmó"
+            },
+            {
+              "word": "der Tau",
+              "meaning": "harmat"
+            }
+          ]
+        },
+        "mindennapi_kifejezesek": {
+          "name": "Mindennapi kifejezések",
+          "emoji": "🗣️",
+          "words": [
+            {
+              "word": "Wie läuft's?",
+              "meaning": "Hogy megy?"
+            },
+            {
+              "word": "Nicht schlecht, danke",
+              "meaning": "Nem rossz, köszönöm"
+            },
+            {
+              "word": "Könnten Sie das wiederholen?",
+              "meaning": "Megismételnéd?"
+            },
+            {
+              "word": "Wie bitte?",
+              "meaning": "Elnézést, nem értettem"
+            },
+            {
+              "word": "Schon gut",
+              "meaning": "Semmi gond / Hagyd"
+            },
+            {
+              "word": "Einen Moment bitte",
+              "meaning": "Csak egy pillanat"
+            },
+            {
+              "word": "Ich bin gleich zurück",
+              "meaning": "Mindjárt visszajövök"
+            },
+            {
+              "word": "Pass auf dich auf",
+              "meaning": "Vigyázz magadra"
+            },
+            {
+              "word": "Schönen Tag noch",
+              "meaning": "Szép napot"
+            },
+            {
+              "word": "Lange nicht gesehen",
+              "meaning": "Rég láttalak"
+            },
+            {
+              "word": "Was für ein Zufall!",
+              "meaning": "Micsoda véletlen!"
+            },
+            {
+              "word": "Das liegt bei dir",
+              "meaning": "Rajtad múlik"
+            },
+            {
+              "word": "Ich habe es eilig",
+              "meaning": "Sietős dolgom van"
+            },
+            {
+              "word": "Könntest du mir helfen?",
+              "meaning": "Tudnál segíteni?"
+            },
+            {
+              "word": "Ich verstehe nicht",
+              "meaning": "Nem értem"
+            },
+            {
+              "word": "Können Sie langsamer sprechen?",
+              "meaning": "Tudnál lassabban beszélni?"
+            },
+            {
+              "word": "Was meinst du damit?",
+              "meaning": "Mit értesz ez alatt?"
+            },
+            {
+              "word": "Das ergibt Sinn",
+              "meaning": "Ez logikus"
+            },
+            {
+              "word": "Ich stimme zu",
+              "meaning": "Egyetértek"
+            },
+            {
+              "word": "Ich stimme nicht zu",
+              "meaning": "Nem értek egyet"
+            },
+            {
+              "word": "Das ist ein guter Punkt",
+              "meaning": "Ez egy jó felvetés"
+            },
+            {
+              "word": "Ehrlich gesagt",
+              "meaning": "Őszintén szólva"
+            },
+            {
+              "word": "Mit anderen Worten",
+              "meaning": "Más szóval"
+            },
+            {
+              "word": "Zum Beispiel",
+              "meaning": "Például"
+            },
+            {
+              "word": "Andererseits",
+              "meaning": "Másrészt"
+            },
+            {
+              "word": "Soweit ich weiß",
+              "meaning": "Amennyire tudom"
+            },
+            {
+              "word": "Ich habe keine Ahnung",
+              "meaning": "Fogalmam sincs"
+            },
+            {
+              "word": "Viel Glück!",
+              "meaning": "Sok szerencsét!"
+            },
+            {
+              "word": "Gut gemacht!",
+              "meaning": "Szép munka!"
+            },
+            {
+              "word": "Herzlichen Glückwunsch!",
+              "meaning": "Gratulálok!"
+            },
+            {
+              "word": "Das tut mir leid",
+              "meaning": "Sajnálom hallani"
+            },
+            {
+              "word": "Kopf hoch!",
+              "meaning": "Ne csüggedj!"
+            },
+            {
+              "word": "Kein Problem",
+              "meaning": "Semmi gond"
+            },
+            {
+              "word": "Alles gut",
+              "meaning": "Minden rendben"
+            },
+            {
+              "word": "Was ist los?",
+              "meaning": "Mi a baj?"
+            },
+            {
+              "word": "Alles in Ordnung?",
+              "meaning": "Jól vagy?"
+            },
+            {
+              "word": "Ich fühle mich nicht gut",
+              "meaning": "Nem érzem jól magam"
+            },
+            {
+              "word": "Ich bin erschöpft",
+              "meaning": "Teljesen ki vagyok merülve"
+            },
+            {
+              "word": "Ich kann es kaum erwarten!",
+              "meaning": "Alig várom!"
+            },
+            {
+              "word": "Das ist schade",
+              "meaning": "Ez sajnálatos"
+            },
+            {
+              "word": "Übrigens",
+              "meaning": "Egyébként / Mellesleg"
+            },
+            {
+              "word": "Da wir gerade dabei sind",
+              "meaning": "Apropó"
+            },
+            {
+              "word": "Lass mich nachdenken",
+              "meaning": "Hadd gondoljam meg"
+            },
+            {
+              "word": "Du hast recht",
+              "meaning": "Igazad van"
+            },
+            {
+              "word": "Das werde ich im Hinterkopf behalten",
+              "meaning": "Észben tartom"
+            },
+            {
+              "word": "Das kommt darauf an",
+              "meaning": "Ez attól függ"
+            },
+            {
+              "word": "Mehr oder weniger",
+              "meaning": "Több-kevesebb / Nagyjából"
+            },
+            {
+              "word": "Früher oder später",
+              "meaning": "Előbb vagy utóbb"
+            },
+            {
+              "word": "Ab und zu",
+              "meaning": "Néha / Időnként"
+            },
+            {
+              "word": "Besser spät als nie",
+              "meaning": "Jobb késő, mint soha"
+            },
+            {
+              "word": "Bis später",
+              "meaning": "Később találkozunk"
+            },
+            {
+              "word": "Bis morgen",
+              "meaning": "Holnap találkozunk"
+            },
+            {
+              "word": "Freut mich",
+              "meaning": "Örülök, hogy megismertelek"
+            },
+            {
+              "word": "Wie heißt du?",
+              "meaning": "Hogy hívnak?"
+            },
+            {
+              "word": "Ich heiße …",
+              "meaning": "A nevem …"
+            },
+            {
+              "word": "Woher kommst du?",
+              "meaning": "Honnan származol?"
+            },
+            {
+              "word": "Ich komme aus Ungarn",
+              "meaning": "Magyarországról jövök"
+            },
+            {
+              "word": "Wie alt bist du?",
+              "meaning": "Hány éves vagy?"
+            },
+            {
+              "word": "Was machst du beruflich?",
+              "meaning": "Mi a foglalkozásod?"
+            },
+            {
+              "word": "Ich bin Student",
+              "meaning": "Diák vagyok"
+            },
+            {
+              "word": "Entschuldigung",
+              "meaning": "Elnézést"
+            },
+            {
+              "word": "Tut mir leid",
+              "meaning": "Bocsánat"
+            },
+            {
+              "word": "Vielen Dank",
+              "meaning": "Nagyon köszönöm"
+            },
+            {
+              "word": "Bitte schön",
+              "meaning": "Szívesen"
+            },
+            {
+              "word": "Bitte",
+              "meaning": "Kérem"
+            },
+            {
+              "word": "Ja",
+              "meaning": "Igen"
+            },
+            {
+              "word": "Nein",
+              "meaning": "Nem"
+            },
+            {
+              "word": "Vielleicht",
+              "meaning": "Talán"
+            },
+            {
+              "word": "Weiß ich noch nicht",
+              "meaning": "Még nem tudom"
+            },
+            {
+              "word": "Ich schaue nach",
+              "meaning": "Megnézem"
+            },
+            {
+              "word": "Klingt gut",
+              "meaning": "Jól hangzik"
+            },
+            {
+              "word": "Machen wir es",
+              "meaning": "Csináljuk"
+            },
+            {
+              "word": "Ich bin mir nicht sicher",
+              "meaning": "Nem vagyok biztos benne"
+            },
+            {
+              "word": "Es könnte besser sein",
+              "meaning": "Lehetne jobb is"
+            },
+            {
+              "word": "Ich bin gerade beschäftigt",
+              "meaning": "Most elfoglalt vagyok"
+            },
+            {
+              "word": "Schreib mir eine Nachricht",
+              "meaning": "Írj üzenetet"
+            },
+            {
+              "word": "Ruf mich zurück",
+              "meaning": "Hívj vissza"
+            },
+            {
+              "word": "Ich gebe dir Bescheid",
+              "meaning": "Majd szólok"
+            },
+            {
+              "word": "Halte mich auf dem Laufenden",
+              "meaning": "Tarts tájékoztatva"
+            },
+            {
+              "word": "Stimmt schon",
+              "meaning": "Rendben van így is"
+            },
+            {
+              "word": "Total",
+              "meaning": "Teljesen"
+            },
+            {
+              "word": "Genau",
+              "meaning": "Pontosan"
+            },
+            {
+              "word": "Schätze schon",
+              "meaning": "Azt hiszem, igen"
+            },
+            {
+              "word": "Überhaupt kein Problem",
+              "meaning": "Egyáltalán nem gond"
+            },
+            {
+              "word": "Mein Fehler",
+              "meaning": "Az én hibám"
+            },
+            {
+              "word": "Seien wir uns uneinig",
+              "meaning": "Maradjunk eltérő véleményen"
+            },
+            {
+              "word": "Ich bin unterwegs",
+              "meaning": "Úton vagyok"
+            },
+            {
+              "word": "Ich komme zu spät",
+              "meaning": "Késni fogok"
+            },
+            {
+              "word": "Der Verkehr war schlecht",
+              "meaning": "Rossz volt a forgalom"
+            },
+            {
+              "word": "Können wir uns in der Mitte treffen?",
+              "meaning": "Találkozhatunk félúton?"
+            },
+            {
+              "word": "Welche Zeit passt dir?",
+              "meaning": "Mikor lenne jó neked?"
+            },
+            {
+              "word": "Ich bestätige später",
+              "meaning": "Később megerősítem"
+            },
+            {
+              "word": "Mach dir keine Gedanken",
+              "meaning": "Ne aggódj miatta"
+            },
+            {
+              "word": "Nimm dir Zeit",
+              "meaning": "Ne siess"
+            },
+            {
+              "word": "Gute Besserung",
+              "meaning": "Jobbulást"
+            },
+            {
+              "word": "Herzlichen Glückwunsch zum Erfolg!",
+              "meaning": "Gratulálok a sikerhez!"
+            },
+            {
+              "word": "Alles Gute zum Geburtstag!",
+              "meaning": "Boldog születésnapot!"
+            },
+            {
+              "word": "Frohes neues Jahr!",
+              "meaning": "Boldog új évet!"
+            },
+            {
+              "word": "Frohe Weihnachten!",
+              "meaning": "Boldog karácsonyt!"
+            },
+            {
+              "word": "Guten Appetit!",
+              "meaning": "Jó étvágyat!"
+            },
+            {
+              "word": "Gute Reise!",
+              "meaning": "Jó utat!"
+            },
+            {
+              "word": "Hals- und Beinbruch!",
+              "meaning": "Sok sikert! (színház)"
+            },
+            {
+              "word": "Holz klopfen",
+              "meaning": "Fa kopogtatás (szerencsehozó babona)"
+            },
+            {
+              "word": "Ich bin dabei",
+              "meaning": "Számíts rám"
+            },
+            {
+              "word": "Ich bin pleite",
+              "meaning": "Nincs egy vasam sem"
+            },
+            {
+              "word": "Das ist teuer",
+              "meaning": "Ez drága"
+            },
+            {
+              "word": "Das ist billig",
+              "meaning": "Ez olcsó"
+            },
+            {
+              "word": "Kann ich mit Karte zahlen?",
+              "meaning": "Kártyával fizethetek?"
+            },
+            {
+              "word": "Nur Barzahlung",
+              "meaning": "Csak készpénz"
+            },
+            {
+              "word": "Wo ist die Toilette?",
+              "meaning": "Hol a mosdó?"
+            },
+            {
+              "word": "Ich brauche Hilfe",
+              "meaning": "Segítségre van szükségem"
+            },
+            {
+              "word": "Ruf die Polizei",
+              "meaning": "Hívd a rendőrséget"
+            },
+            {
+              "word": "Ich habe mich verirrt",
+              "meaning": "Eltévedtem"
+            },
+            {
+              "word": "Sprechen Sie Englisch?",
+              "meaning": "Beszél angolul?"
+            },
+            {
+              "word": "Sprechen Sie Deutsch?",
+              "meaning": "Beszél németül?"
+            },
+            {
+              "word": "Ich spreche ein bisschen …",
+              "meaning": "Egy kicsit beszélek …"
+            },
+            {
+              "word": "Könnten Sie das aufschreiben?",
+              "meaning": "Leírhatná?"
+            },
+            {
+              "word": "Wie viel kostet das?",
+              "meaning": "Mennyibe kerül?"
+            },
+            {
+              "word": "Zu teuer für mich",
+              "meaning": "Nekem túl drága"
+            },
+            {
+              "word": "Ich überlege es mir",
+              "meaning": "Meggondolom"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
