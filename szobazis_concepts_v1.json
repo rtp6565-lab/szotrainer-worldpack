@@ -1,0 +1,5449 @@
+{
+  "schema": "wordtrainer_concepts_v1",
+  "languages": {
+    "english": {
+      "displayName": "english"
+    },
+    "german": {
+      "displayName": "german"
+    }
+  },
+  "topics": {
+    "otthon": {
+      "name": "Otthon",
+      "emoji": "🏠"
+    },
+    "etel_ital": {
+      "name": "Étel & Ital",
+      "emoji": "🍎"
+    },
+    "munka_iroda": {
+      "name": "Munka & Iroda",
+      "emoji": "💼"
+    },
+    "termeszet_idojaras": {
+      "name": "Természet & Időjárás",
+      "emoji": "🌿"
+    },
+    "mindennapi_kifejezesek": {
+      "name": "Mindennapi kifejezések",
+      "emoji": "🗣️"
+    }
+  },
+  "concepts": [
+    {
+      "id": "otthon.fotel.1",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "armchair",
+        "german": "der Sessel",
+        "hu": "fotel"
+      }
+    },
+    {
+      "id": "otthon.k_nyvespolc.2",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "bookshelf",
+        "german": "das Bücherregal",
+        "hu": "könyvespolc"
+      }
+    },
+    {
+      "id": "otthon.f_gg_ny.3",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "curtain",
+        "german": "der Vorhang",
+        "hu": "függöny"
+      }
+    },
+    {
+      "id": "otthon.fi_k.4",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "drawer",
+        "german": "die Schublade",
+        "hu": "fiók"
+      }
+    },
+    {
+      "id": "otthon.kandall.5",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "fireplace",
+        "german": "der Kamin",
+        "hu": "kandalló"
+      }
+    },
+    {
+      "id": "otthon.el_szoba.6",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "hallway",
+        "german": "der Flur",
+        "hu": "előszoba"
+      }
+    },
+    {
+      "id": "otthon.sz_nyeg.7",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "carpet",
+        "german": "der Teppich",
+        "hu": "szőnyeg"
+      }
+    },
+    {
+      "id": "otthon.mennyezet.8",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "ceiling",
+        "german": "die Decke",
+        "hu": "mennyezet"
+      }
+    },
+    {
+      "id": "otthon.k_m_ny.9",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "chimney",
+        "german": "der Schornstein",
+        "hu": "kémény"
+      }
+    },
+    {
+      "id": "otthon.cseng.10",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "doorbell",
+        "german": "die Klingel",
+        "hu": "csengő"
+      }
+    },
+    {
+      "id": "otthon.csap.11",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "faucet",
+        "german": "der Wasserhahn",
+        "hu": "csap"
+      }
+    },
+    {
+      "id": "otthon.gar_zs.12",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "garage",
+        "german": "die Garage",
+        "hu": "garázs"
+      }
+    },
+    {
+      "id": "otthon.padl_s.13",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "attic",
+        "german": "der Dachboden",
+        "hu": "padlás"
+      }
+    },
+    {
+      "id": "otthon.pince.14",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "basement",
+        "german": "der Keller",
+        "hu": "pince"
+      }
+    },
+    {
+      "id": "otthon.erk_ly.15",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "balcony",
+        "german": "der Balkon",
+        "hu": "erkély"
+      }
+    },
+    {
+      "id": "otthon.mos_g_p.16",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "washing machine",
+        "german": "die Waschmaschine",
+        "hu": "mosógép"
+      }
+    },
+    {
+      "id": "otthon.porsz_v.17",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "vacuum cleaner",
+        "german": "der Staubsauger",
+        "hu": "porszívó"
+      }
+    },
+    {
+      "id": "otthon.villanykapcsol.18",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "light switch",
+        "german": "der Lichtschalter",
+        "hu": "villanykapcsoló"
+      }
+    },
+    {
+      "id": "otthon.ablakp_rk_ny.19",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "window sill",
+        "german": "die Fensterbank",
+        "hu": "ablakpárkány"
+      }
+    },
+    {
+      "id": "otthon.fogas_llv_ny.20",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "coat hanger",
+        "german": "die Garderobe",
+        "hu": "fogasállvány"
+      }
+    },
+    {
+      "id": "otthon.p_rna.21",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "pillow",
+        "german": "das Kissen",
+        "hu": "párna"
+      }
+    },
+    {
+      "id": "otthon.takar.22",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "blanket",
+        "german": "die Decke",
+        "hu": "takaró"
+      }
+    },
+    {
+      "id": "otthon.t_k_r.23",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "mirror",
+        "german": "der Spiegel",
+        "hu": "tükör"
+      }
+    },
+    {
+      "id": "otthon.t_r_lk_z.24",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "towel",
+        "german": "das Handtuch",
+        "hu": "törölköző"
+      }
+    },
+    {
+      "id": "otthon.szappantart.25",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "soap dish",
+        "german": "die Seifenschale",
+        "hu": "szappantartó"
+      }
+    },
+    {
+      "id": "otthon.szemetes.26",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "trash can",
+        "german": "der Mülleimer",
+        "hu": "szemetes"
+      }
+    },
+    {
+      "id": "otthon.sepr.27",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "broom",
+        "german": "der Besen",
+        "hu": "seprű"
+      }
+    },
+    {
+      "id": "otthon.lap_t_szemetes.28",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "dustpan",
+        "hu": "lapát (szemetes)"
+      }
+    },
+    {
+      "id": "otthon.vasal_deszka.29",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "ironing board",
+        "german": "das Bügelbrett",
+        "hu": "vasalódeszka"
+      }
+    },
+    {
+      "id": "otthon.ruhaakaszt.30",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "clothes hanger",
+        "german": "der Kleiderbügel",
+        "hu": "ruhaakasztó"
+      }
+    },
+    {
+      "id": "otthon.megvetni_az_gyat.31",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Make the bed",
+        "german": "das Bett machen",
+        "hu": "Megvetni az ágyat"
+      }
+    },
+    {
+      "id": "otthon.kivinni_a_szemetet.32",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Take out the trash",
+        "german": "den Müll rausbringen",
+        "hu": "Kivinni a szemetet"
+      }
+    },
+    {
+      "id": "otthon.elmosogatni.33",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Do the dishes",
+        "german": "Geschirr spülen",
+        "hu": "Elmosogatni"
+      }
+    },
+    {
+      "id": "otthon.porsz_v_zni_a_padl_t.34",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Vacuum the floor",
+        "german": "den Boden saugen",
+        "hu": "Porszívózni a padlót"
+      }
+    },
+    {
+      "id": "otthon.felakasztani_a_mosott_ruh_t.35",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Hang up the laundry",
+        "german": "Wäsche aufhängen",
+        "hu": "Felakasztani a mosott ruhát"
+      }
+    },
+    {
+      "id": "otthon.lekapcsolni_a_villanyt.36",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Turn off the lights",
+        "german": "das Licht ausschalten",
+        "hu": "Lekapcsolni a villanyt"
+      }
+    },
+    {
+      "id": "otthon.bez_rni_az_ajt_t.37",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Lock the door",
+        "german": "die Tür abschließen",
+        "hu": "Bezárni az ajtót"
+      }
+    },
+    {
+      "id": "otthon.kinyitni_az_ablakot.38",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Open the window",
+        "german": "das Fenster öffnen",
+        "hu": "Kinyitni az ablakot"
+      }
+    },
+    {
+      "id": "otthon.megter_teni_az_asztalt.39",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Set the table",
+        "german": "den Tisch decken",
+        "hu": "Megteríteni az asztalt"
+      }
+    },
+    {
+      "id": "otthon.leszedni_az_asztalt.40",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "Clear the table",
+        "german": "den Tisch abräumen",
+        "hu": "Leszedni az asztalt"
+      }
+    },
+    {
+      "id": "otthon.polc.41",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "shelf",
+        "german": "das Regal",
+        "hu": "polc"
+      }
+    },
+    {
+      "id": "otthon.radi_tor.42",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "radiator",
+        "german": "der Heizkörper",
+        "hu": "radiátor"
+      }
+    },
+    {
+      "id": "otthon.konnektor.43",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "outlet",
+        "german": "die Steckdose",
+        "hu": "konnektor"
+      }
+    },
+    {
+      "id": "otthon.hosszabb_t.44",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "extension cord",
+        "german": "das Verlängerungskabel",
+        "hu": "hosszabbító"
+      }
+    },
+    {
+      "id": "otthon.ll_l_mpa.45",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "floor lamp",
+        "german": "die Stehlampe",
+        "hu": "állólámpa"
+      }
+    },
+    {
+      "id": "otthon.jjeliszekr_ny.46",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "nightstand",
+        "german": "der Nachttisch",
+        "hu": "éjjeliszekrény"
+      }
+    },
+    {
+      "id": "otthon.szennyeskos_r.47",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "laundry basket",
+        "german": "der Wäschekorb",
+        "hu": "szennyeskosár"
+      }
+    },
+    {
+      "id": "otthon.t_ny_rsz_r_t.48",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "dish rack",
+        "german": "das Abtropfgestell",
+        "hu": "tányérszárító"
+      }
+    },
+    {
+      "id": "otthon.mosogat.49",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "kitchen sink",
+        "german": "das Spülbecken",
+        "hu": "mosogató"
+      }
+    },
+    {
+      "id": "otthon.kamra.50",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "storage room",
+        "german": "die Abstellkammer",
+        "hu": "kamra"
+      }
+    },
+    {
+      "id": "otthon.turmixg_p.51",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "blender",
+        "german": "der Mixer",
+        "hu": "turmixgép"
+      }
+    },
+    {
+      "id": "otthon.keny_rpir_t.52",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "toaster",
+        "german": "der Toaster",
+        "hu": "kenyérpirító"
+      }
+    },
+    {
+      "id": "otthon.v_zforral.53",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "kettle",
+        "german": "der Wasserkocher",
+        "hu": "vízforraló"
+      }
+    },
+    {
+      "id": "otthon.mikr.54",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "microwave",
+        "german": "die Mikrowelle",
+        "hu": "mikró"
+      }
+    },
+    {
+      "id": "otthon.s_t.55",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "oven",
+        "german": "der Backofen",
+        "hu": "sütő"
+      }
+    },
+    {
+      "id": "otthon.t_zhely.56",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "stove",
+        "german": "der Herd",
+        "hu": "tűzhely"
+      }
+    },
+    {
+      "id": "otthon.h_t.57",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "refrigerator",
+        "german": "der Kühlschrank",
+        "hu": "hűtő"
+      }
+    },
+    {
+      "id": "otthon.fagyaszt_l_da.58",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "freezer",
+        "german": "die Gefriertruhe",
+        "hu": "fagyasztóláda"
+      }
+    },
+    {
+      "id": "otthon.mosogat_g_p.59",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "dishwasher",
+        "german": "die Spülmaschine",
+        "hu": "mosogatógép"
+      }
+    },
+    {
+      "id": "otthon.szivacs.60",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "sponge",
+        "german": "der Schwamm",
+        "hu": "szivacs"
+      }
+    },
+    {
+      "id": "otthon.felmos.61",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "mop",
+        "german": "der Wischmopp",
+        "hu": "felmosó"
+      }
+    },
+    {
+      "id": "otthon.v_d_r.62",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "bucket",
+        "german": "der Eimer",
+        "hu": "vödör"
+      }
+    },
+    {
+      "id": "otthon.l_tra.63",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "ladder",
+        "german": "die Leiter",
+        "hu": "létra"
+      }
+    },
+    {
+      "id": "otthon.kalap_cs.64",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "hammer",
+        "german": "der Hammer",
+        "hu": "kalapács"
+      }
+    },
+    {
+      "id": "otthon.csavarh_z.65",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "screwdriver",
+        "german": "der Schraubenzieher",
+        "hu": "csavarhúzó"
+      }
+    },
+    {
+      "id": "otthon.f_r.66",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "drill",
+        "german": "der Bohrer",
+        "hu": "fúró"
+      }
+    },
+    {
+      "id": "otthon.m_r_szalag.67",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "measuring tape",
+        "german": "das Maßband",
+        "hu": "mérőszalag"
+      }
+    },
+    {
+      "id": "otthon.ecset.68",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "paintbrush",
+        "german": "der Pinsel",
+        "hu": "ecset"
+      }
+    },
+    {
+      "id": "otthon.tap_ta.69",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "wallpaper",
+        "german": "die Tapete",
+        "hu": "tapéta"
+      }
+    },
+    {
+      "id": "otthon.red_ny.70",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "blinds",
+        "german": "die Jalousie",
+        "hu": "redőny"
+      }
+    },
+    {
+      "id": "otthon.postal_da.71",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "mailbox",
+        "german": "der Briefkasten",
+        "hu": "postaláda"
+      }
+    },
+    {
+      "id": "otthon.ker_t_s.72",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "fence",
+        "german": "der Zaun",
+        "hu": "kerítés"
+      }
+    },
+    {
+      "id": "otthon.s_v_ny.73",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "hedge",
+        "german": "die Hecke",
+        "hu": "sövény"
+      }
+    },
+    {
+      "id": "otthon.f_ny_r.74",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "lawn mower",
+        "german": "der Rasenmäher",
+        "hu": "fűnyíró"
+      }
+    },
+    {
+      "id": "otthon.locsol_t_ml.75",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "garden hose",
+        "german": "der Gartenschlauch",
+        "hu": "locsolótömlő"
+      }
+    },
+    {
+      "id": "otthon.nt_z.76",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "sprinkler",
+        "german": "die Bewässerungsanlage",
+        "hu": "öntöző"
+      }
+    },
+    {
+      "id": "otthon.termoszt_t.77",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "thermostat",
+        "german": "das Thermostat",
+        "hu": "termosztát"
+      }
+    },
+    {
+      "id": "otthon.f_stjelz.78",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "smoke detector",
+        "german": "der Rauchmelder",
+        "hu": "füstjelző"
+      }
+    },
+    {
+      "id": "otthon.eleml_mpa.79",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "flashlight",
+        "german": "die Taschenlampe",
+        "hu": "elemlámpa"
+      }
+    },
+    {
+      "id": "otthon.elemek.80",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "batteries",
+        "german": "die Batterien",
+        "hu": "elemek"
+      }
+    },
+    {
+      "id": "otthon.v_za.81",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "vase",
+        "german": "die Vase",
+        "hu": "váza"
+      }
+    },
+    {
+      "id": "otthon.k_pkeret.82",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "picture frame",
+        "german": "der Bilderrahmen",
+        "hu": "képkeret"
+      }
+    },
+    {
+      "id": "otthon.fali_ra.83",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "wall clock",
+        "german": "die Wanduhr",
+        "hu": "falióra"
+      }
+    },
+    {
+      "id": "otthon.napt_r.84",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "calendar",
+        "german": "der Kalender",
+        "hu": "naptár"
+      }
+    },
+    {
+      "id": "otthon.paplan.85",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "duvet",
+        "german": "die Bettdecke",
+        "hu": "paplan"
+      }
+    },
+    {
+      "id": "otthon.gumis_leped.86",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "fitted sheet",
+        "german": "das Spannbetttuch",
+        "hu": "gumis lepedő"
+      }
+    },
+    {
+      "id": "otthon.p_rnahuzat.87",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "pillowcase",
+        "german": "der Kissenbezug",
+        "hu": "párnahuzat"
+      }
+    },
+    {
+      "id": "otthon.ruh_sszekr_ny.88",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "wardrobe",
+        "german": "der Kleiderschrank",
+        "hu": "ruhásszekrény"
+      }
+    },
+    {
+      "id": "otthon.kom_d.89",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "dresser",
+        "german": "die Kommode",
+        "hu": "komód"
+      }
+    },
+    {
+      "id": "otthon.k_d.90",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "bathtub",
+        "german": "die Badewanne",
+        "hu": "kád"
+      }
+    },
+    {
+      "id": "otthon.zuhanyfej.91",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "showerhead",
+        "german": "der Duschkopf",
+        "hu": "zuhanyfej"
+      }
+    },
+    {
+      "id": "otthon.wc_pumpa.92",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "plunger",
+        "german": "die Saugglocke",
+        "hu": "wc-pumpa"
+      }
+    },
+    {
+      "id": "otthon.mos_szer.93",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "laundry detergent",
+        "german": "das Waschmittel",
+        "hu": "mosószer"
+      }
+    },
+    {
+      "id": "otthon.bl_t.94",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "fabric softener",
+        "german": "der Weichspüler",
+        "hu": "öblítő"
+      }
+    },
+    {
+      "id": "otthon.csipesz_ruh_ra.95",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "clothes peg",
+        "german": "die Wäscheklammer",
+        "hu": "csipesz (ruhára)"
+      }
+    },
+    {
+      "id": "otthon.sz_r_t_llv_ny.96",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "drying rack",
+        "german": "der Wäscheständer",
+        "hu": "szárítóállvány"
+      }
+    },
+    {
+      "id": "otthon.oll.97",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "scissors",
+        "german": "die Schere",
+        "hu": "olló"
+      }
+    },
+    {
+      "id": "otthon.biztos_t_kt_bla.98",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "fuse box",
+        "german": "der Sicherungskasten",
+        "hu": "biztosítéktábla"
+      }
+    },
+    {
+      "id": "otthon.kilincs.99",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "door handle",
+        "german": "der Türgriff",
+        "hu": "kilincs"
+      }
+    },
+    {
+      "id": "otthon.ablakkeret.100",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "window frame",
+        "german": "der Fensterrahmen",
+        "hu": "ablakkeret"
+      }
+    },
+    {
+      "id": "otthon.tet_ablak.101",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "skylight",
+        "german": "das Dachfenster",
+        "hu": "tetőablak"
+      }
+    },
+    {
+      "id": "otthon.zs_moly.102",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "stool",
+        "german": "der Hocker",
+        "hu": "zsámoly"
+      }
+    },
+    {
+      "id": "otthon.fut_sz_nyeg.103",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "rug runner",
+        "german": "der Läufer",
+        "hu": "futószőnyeg"
+      }
+    },
+    {
+      "id": "otthon.d_szp_rna.104",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "throw pillow",
+        "german": "das Sofakissen",
+        "hu": "díszpárna"
+      }
+    },
+    {
+      "id": "otthon.gy_gyszerszekr_ny.105",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "medicine cabinet",
+        "german": "der Medikamentenschrank",
+        "hu": "gyógyszerszekrény"
+      }
+    },
+    {
+      "id": "otthon.szersz_mosl_da.106",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "toolbox",
+        "german": "die Werkzeugkiste",
+        "hu": "szerszámosláda"
+      }
+    },
+    {
+      "id": "otthon.sz_gek.107",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "nails",
+        "german": "die Nägel",
+        "hu": "szögek"
+      }
+    },
+    {
+      "id": "otthon.eloszt.108",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "power strip",
+        "german": "die Steckdosenleiste",
+        "hu": "elosztó"
+      }
+    },
+    {
+      "id": "otthon.cs_l_tra.109",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "extension ladder",
+        "german": "die Ausziehleiter",
+        "hu": "csőlétra"
+      }
+    },
+    {
+      "id": "otthon.l_bt_rl.110",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "doormat",
+        "german": "die Fußmatte",
+        "hu": "lábtörlő"
+      }
+    },
+    {
+      "id": "otthon.zsalug_ter.111",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "shutters",
+        "german": "der Fensterladen",
+        "hu": "zsalugáter"
+      }
+    },
+    {
+      "id": "otthon.p_r_s_t.112",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "humidifier",
+        "german": "der Luftbefeuchter",
+        "hu": "párásító"
+      }
+    },
+    {
+      "id": "otthon.l_gtiszt_t.113",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "air purifier",
+        "german": "der Luftreiniger",
+        "hu": "légtisztító"
+      }
+    },
+    {
+      "id": "otthon.porzs_k.114",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "vacuum bag",
+        "german": "der Staubsaugerbeutel",
+        "hu": "porzsák"
+      }
+    },
+    {
+      "id": "otthon.szemeteszs_k.115",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "trash bags",
+        "german": "die Müllbeutel",
+        "hu": "szemeteszsák"
+      }
+    },
+    {
+      "id": "otthon.szelekt_v_szemetes.116",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "recycling bin",
+        "german": "die Recyclingtonne",
+        "hu": "szelektív szemetes"
+      }
+    },
+    {
+      "id": "otthon.komposzt_l.117",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "compost bin",
+        "german": "der Komposter",
+        "hu": "komposztáló"
+      }
+    },
+    {
+      "id": "otthon.fell_p_zs_moly.118",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "step stool",
+        "german": "der Tritthocker",
+        "hu": "fellépő zsámoly"
+      }
+    },
+    {
+      "id": "otthon.sarokpolc.119",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "corner shelf",
+        "german": "das Eckregal",
+        "hu": "sarokpolc"
+      }
+    },
+    {
+      "id": "otthon.ll_fogas.120",
+      "topicId": "Otthon",
+      "translations": {
+        "english": "coat rack",
+        "german": "der Kleiderständer",
+        "hu": "álló fogas"
+      }
+    },
+    {
+      "id": "etel_ital.r_ntotta.121",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "scrambled eggs",
+        "german": "das Rührei",
+        "hu": "rántotta"
+      }
+    },
+    {
+      "id": "etel_ital.zabk_sa.122",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "oatmeal",
+        "german": "der Haferbrei",
+        "hu": "zabkása"
+      }
+    },
+    {
+      "id": "etel_ital.kov_szos_keny_r.123",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "sourdough bread",
+        "german": "das Sauerteigbrot",
+        "hu": "kovászos kenyér"
+      }
+    },
+    {
+      "id": "etel_ital.kr_msajt.124",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cream cheese",
+        "german": "der Frischkäse",
+        "hu": "krémsajt"
+      }
+    },
+    {
+      "id": "etel_ital.sz_nsavas_v_z.125",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "sparkling water",
+        "german": "das Sprudelwasser",
+        "hu": "szénsavas víz"
+      }
+    },
+    {
+      "id": "etel_ital.turmix.126",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "smoothie",
+        "german": "der Smoothie",
+        "hu": "turmix"
+      }
+    },
+    {
+      "id": "etel_ital.marad_k_tel.127",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "leftovers",
+        "german": "die Reste",
+        "hu": "maradék étel"
+      }
+    },
+    {
+      "id": "etel_ital.elvitel_tel.128",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "takeaway",
+        "german": "zum Mitnehmen",
+        "hu": "elvitel (étel)"
+      }
+    },
+    {
+      "id": "etel_ital.recept.129",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "recipe",
+        "german": "das Rezept",
+        "hu": "recept"
+      }
+    },
+    {
+      "id": "etel_ital.hozz_val.130",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "ingredient",
+        "german": "die Zutat",
+        "hu": "hozzávaló"
+      }
+    },
+    {
+      "id": "etel_ital.adag.131",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "portion",
+        "german": "die Portion",
+        "hu": "adag"
+      }
+    },
+    {
+      "id": "etel_ital.f_szerez_s.132",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "seasoning",
+        "german": "die Würze",
+        "hu": "fűszerezés"
+      }
+    },
+    {
+      "id": "etel_ital.ntet_sal_t_hoz.133",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "dressing",
+        "german": "das Dressing",
+        "hu": "öntet (salátához)"
+      }
+    },
+    {
+      "id": "etel_ital.el_tel.134",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "appetizer",
+        "german": "die Vorspeise",
+        "hu": "előétel"
+      }
+    },
+    {
+      "id": "etel_ital.f_tel.135",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "main course",
+        "german": "das Hauptgericht",
+        "hu": "főétel"
+      }
+    },
+    {
+      "id": "etel_ital.desszert.136",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "dessert",
+        "german": "der Nachtisch",
+        "hu": "desszert"
+      }
+    },
+    {
+      "id": "etel_ital.k_ret.137",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "side dish",
+        "german": "die Beilage",
+        "hu": "köret"
+      }
+    },
+    {
+      "id": "etel_ital.nassolnival.138",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "snack",
+        "german": "der Snack",
+        "hu": "nassolnivaló"
+      }
+    },
+    {
+      "id": "etel_ital.el_re_elk_sz_tett_tel.139",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "meal prep",
+        "hu": "előre elkészített étel"
+      }
+    },
+    {
+      "id": "etel_ital.bev_s_rl_lista.140",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "grocery list",
+        "german": "die Einkaufsliste",
+        "hu": "bevásárlólista"
+      }
+    },
+    {
+      "id": "etel_ital.hen_halok.141",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "I'm starving",
+        "german": "Ich verhungere",
+        "hu": "Éhen halok"
+      }
+    },
+    {
+      "id": "etel_ital.k_rhetem_a_sz_ml_t.142",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Could I have the bill?",
+        "german": "Könnte ich die Rechnung haben?",
+        "hu": "Kérhetem a számlát?"
+      }
+    },
+    {
+      "id": "etel_ital.nagyon_finom.143",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "It's delicious!",
+        "german": "Es ist köstlich!",
+        "hu": "Nagyon finom!"
+      }
+    },
+    {
+      "id": "etel_ital.j_llaktam.144",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "I'm full",
+        "german": "Ich bin satt",
+        "hu": "Jóllaktam"
+      }
+    },
+    {
+      "id": "etel_ital.kaphatok_m_g_egyet.145",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Can I have a refill?",
+        "german": "Kann ich nachbestellen?",
+        "hu": "Kaphatok még egyet?"
+      }
+    },
+    {
+      "id": "etel_ital.padlizs_n.146",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "aubergine",
+        "german": "die Aubergine",
+        "hu": "padlizsán"
+      }
+    },
+    {
+      "id": "etel_ital.cukkini.147",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "courgette",
+        "german": "die Zucchini",
+        "hu": "cukkini"
+      }
+    },
+    {
+      "id": "etel_ital.p_r_hagyma.148",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "leek",
+        "german": "der Lauch",
+        "hu": "póréhagyma"
+      }
+    },
+    {
+      "id": "etel_ital.c_kla.149",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "beetroot",
+        "german": "die Rote Bete",
+        "hu": "cékla"
+      }
+    },
+    {
+      "id": "etel_ital.fonya.150",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "blueberry",
+        "german": "die Heidelbeere",
+        "hu": "áfonya"
+      }
+    },
+    {
+      "id": "etel_ital.m_lna.151",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "raspberry",
+        "german": "die Himbeere",
+        "hu": "málna"
+      }
+    },
+    {
+      "id": "etel_ital.szibarack.152",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "peach",
+        "german": "der Pfirsich",
+        "hu": "őszibarack"
+      }
+    },
+    {
+      "id": "etel_ital.szilva.153",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "plum",
+        "german": "die Pflaume",
+        "hu": "szilva"
+      }
+    },
+    {
+      "id": "etel_ital.di.154",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "walnut",
+        "german": "die Walnuss",
+        "hu": "dió"
+      }
+    },
+    {
+      "id": "etel_ital.gesztenye.155",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "chestnut",
+        "german": "die Kastanie",
+        "hu": "gesztenye"
+      }
+    },
+    {
+      "id": "etel_ital.fah_j.156",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cinnamon",
+        "german": "der Zimt",
+        "hu": "fahéj"
+      }
+    },
+    {
+      "id": "etel_ital.gy_mb_r.157",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "ginger",
+        "german": "der Ingwer",
+        "hu": "gyömbér"
+      }
+    },
+    {
+      "id": "etel_ital.kurkuma.158",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "turmeric",
+        "german": "die Kurkuma",
+        "hu": "kurkuma"
+      }
+    },
+    {
+      "id": "etel_ital.rozmaring.159",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "rosemary",
+        "german": "der Rosmarin",
+        "hu": "rozmaring"
+      }
+    },
+    {
+      "id": "etel_ital.kakukkf.160",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "thyme",
+        "german": "der Thymian",
+        "hu": "kakukkfű"
+      }
+    },
+    {
+      "id": "etel_ital.serpeny.161",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "skillet",
+        "german": "die Pfanne",
+        "hu": "serpenyő"
+      }
+    },
+    {
+      "id": "etel_ital.mer_kan_l.162",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "ladle",
+        "german": "die Schöpfkelle",
+        "hu": "merőkanál"
+      }
+    },
+    {
+      "id": "etel_ital.habver.163",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "whisk",
+        "german": "der Schneebesen",
+        "hu": "habverő"
+      }
+    },
+    {
+      "id": "etel_ital.v_g_deszka.164",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cutting board",
+        "german": "das Schneidebrett",
+        "hu": "vágódeszka"
+      }
+    },
+    {
+      "id": "etel_ital.sz_r_lecsepeget.165",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "colander",
+        "german": "das Sieb",
+        "hu": "szűrő/lecsepegető"
+      }
+    },
+    {
+      "id": "etel_ital.s_t_tepsi.166",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "baking tray",
+        "german": "das Backblech",
+        "hu": "sütőtepsi"
+      }
+    },
+    {
+      "id": "etel_ital.s_t_keszty.167",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "oven mitt",
+        "german": "der Ofenhandschuh",
+        "hu": "sütőkesztyű"
+      }
+    },
+    {
+      "id": "etel_ital.dug_h_z.168",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "corkscrew",
+        "german": "der Korkenzieher",
+        "hu": "dugóhúzó"
+      }
+    },
+    {
+      "id": "etel_ital.s_rnyit.169",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "bottle opener",
+        "german": "der Flaschenöffner",
+        "hu": "sörnyitó"
+      }
+    },
+    {
+      "id": "etel_ital.termosz.170",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "thermos",
+        "german": "die Thermoskanne",
+        "hu": "termosz"
+      }
+    },
+    {
+      "id": "etel_ital.eper.171",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "strawberry",
+        "german": "die Erdbeere",
+        "hu": "eper"
+      }
+    },
+    {
+      "id": "etel_ital.cseresznye.172",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cherry",
+        "german": "die Kirsche",
+        "hu": "cseresznye"
+      }
+    },
+    {
+      "id": "etel_ital.sz_l.173",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "grapes",
+        "german": "die Trauben",
+        "hu": "szőlő"
+      }
+    },
+    {
+      "id": "etel_ital.dinnye.174",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "melon",
+        "german": "die Melone",
+        "hu": "dinnye"
+      }
+    },
+    {
+      "id": "etel_ital.g_r_gdinnye.175",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "watermelon",
+        "german": "die Wassermelone",
+        "hu": "görögdinnye"
+      }
+    },
+    {
+      "id": "etel_ital.sal_ta_lev_l.176",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "lettuce",
+        "german": "der Salat",
+        "hu": "saláta (levél)"
+      }
+    },
+    {
+      "id": "etel_ital.spen_t.177",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "spinach",
+        "german": "der Spinat",
+        "hu": "spenót"
+      }
+    },
+    {
+      "id": "etel_ital.brokkoli.178",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "broccoli",
+        "german": "der Brokkoli",
+        "hu": "brokkoli"
+      }
+    },
+    {
+      "id": "etel_ital.karfiol.179",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cauliflower",
+        "german": "der Blumenkohl",
+        "hu": "karfiol"
+      }
+    },
+    {
+      "id": "etel_ital.k_poszta.180",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cabbage",
+        "german": "der Kohl",
+        "hu": "káposzta"
+      }
+    },
+    {
+      "id": "etel_ital.paprika_z_lds_g.181",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "pepper",
+        "german": "die Paprika",
+        "hu": "paprika (zöldség)"
+      }
+    },
+    {
+      "id": "etel_ital.cs_p_s_paprika.182",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "chili pepper",
+        "german": "die Chili",
+        "hu": "csípős paprika"
+      }
+    },
+    {
+      "id": "etel_ital.kukorica.183",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "corn",
+        "german": "der Mais",
+        "hu": "kukorica"
+      }
+    },
+    {
+      "id": "etel_ital.bors.184",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "peas",
+        "german": "die Erbsen",
+        "hu": "borsó"
+      }
+    },
+    {
+      "id": "etel_ital.bab.185",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "beans",
+        "german": "die Bohnen",
+        "hu": "bab"
+      }
+    },
+    {
+      "id": "etel_ital.lencse.186",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "lentils",
+        "german": "die Linsen",
+        "hu": "lencse"
+      }
+    },
+    {
+      "id": "etel_ital.csicseribors.187",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "chickpeas",
+        "german": "die Kichererbsen",
+        "hu": "csicseriborsó"
+      }
+    },
+    {
+      "id": "etel_ital.rizs.188",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "rice",
+        "german": "der Reis",
+        "hu": "rizs"
+      }
+    },
+    {
+      "id": "etel_ital.t_szta.189",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "pasta",
+        "german": "die Pasta",
+        "hu": "tészta"
+      }
+    },
+    {
+      "id": "etel_ital.met_lt_t_szta.190",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "noodles",
+        "german": "die Nudeln",
+        "hu": "metélt/tészta"
+      }
+    },
+    {
+      "id": "etel_ital.liszt.191",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "flour",
+        "german": "das Mehl",
+        "hu": "liszt"
+      }
+    },
+    {
+      "id": "etel_ital.leszt.192",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "yeast",
+        "german": "die Hefe",
+        "hu": "élesztő"
+      }
+    },
+    {
+      "id": "etel_ital.vaj.193",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "butter",
+        "german": "die Butter",
+        "hu": "vaj"
+      }
+    },
+    {
+      "id": "etel_ital.ol_vaolaj.194",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "olive oil",
+        "german": "das Olivenöl",
+        "hu": "olívaolaj"
+      }
+    },
+    {
+      "id": "etel_ital.ecet.195",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "vinegar",
+        "german": "der Essig",
+        "hu": "ecet"
+      }
+    },
+    {
+      "id": "etel_ital.sz_jasz_sz.196",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "soy sauce",
+        "german": "die Sojasauce",
+        "hu": "szójaszósz"
+      }
+    },
+    {
+      "id": "etel_ital.m_z.197",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "honey",
+        "german": "der Honig",
+        "hu": "méz"
+      }
+    },
+    {
+      "id": "etel_ital.lekv_r.198",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "jam",
+        "german": "die Marmelade",
+        "hu": "lekvár"
+      }
+    },
+    {
+      "id": "etel_ital.mogyor_vaj.199",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "peanut butter",
+        "german": "die Erdnussbutter",
+        "hu": "mogyoróvaj"
+      }
+    },
+    {
+      "id": "etel_ital.joghurt.200",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "yogurt",
+        "german": "der Joghurt",
+        "hu": "joghurt"
+      }
+    },
+    {
+      "id": "etel_ital.t_r.201",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cottage cheese",
+        "german": "der Quark",
+        "hu": "túró"
+      }
+    },
+    {
+      "id": "etel_ital.tejsz_n.202",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cream",
+        "german": "die Sahne",
+        "hu": "tejszín"
+      }
+    },
+    {
+      "id": "etel_ital.must_r.203",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "mustard",
+        "german": "der Senf",
+        "hu": "mustár"
+      }
+    },
+    {
+      "id": "etel_ital.ketchup.204",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "ketchup",
+        "german": "der Ketchup",
+        "hu": "ketchup"
+      }
+    },
+    {
+      "id": "etel_ital.majn_z.205",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "mayonnaise",
+        "german": "die Mayonnaise",
+        "hu": "majnéz"
+      }
+    },
+    {
+      "id": "etel_ital.s.206",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "salt",
+        "german": "das Salz",
+        "hu": "só"
+      }
+    },
+    {
+      "id": "etel_ital.fekete_bors.207",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "black pepper",
+        "german": "der schwarze Pfeffer",
+        "hu": "fekete bors"
+      }
+    },
+    {
+      "id": "etel_ital.r_lt_f_szerpaprika.208",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "paprika spice",
+        "german": "das Paprikapulver",
+        "hu": "őrölt fűszerpaprika"
+      }
+    },
+    {
+      "id": "etel_ital.bazsalikom.209",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "basil",
+        "german": "das Basilikum",
+        "hu": "bazsalikom"
+      }
+    },
+    {
+      "id": "etel_ital.oregan.210",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "oregano",
+        "german": "der Oregano",
+        "hu": "oreganó"
+      }
+    },
+    {
+      "id": "etel_ital.petrezselyem.211",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "parsley",
+        "german": "die Petersilie",
+        "hu": "petrezselyem"
+      }
+    },
+    {
+      "id": "etel_ital.kapor.212",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "dill",
+        "german": "der Dill",
+        "hu": "kapor"
+      }
+    },
+    {
+      "id": "etel_ital.menta.213",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "mint",
+        "german": "die Minze",
+        "hu": "menta"
+      }
+    },
+    {
+      "id": "etel_ital.leveses_faz_k.214",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "soup pot",
+        "german": "der Kochtopf",
+        "hu": "leveses fazék"
+      }
+    },
+    {
+      "id": "etel_ital.fed.215",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "pot lid",
+        "german": "der Deckel",
+        "hu": "fedő"
+      }
+    },
+    {
+      "id": "etel_ital.ny_jt_fa.216",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "rolling pin",
+        "german": "das Nudelholz",
+        "hu": "nyújtófa"
+      }
+    },
+    {
+      "id": "etel_ital.reszel.217",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "grater",
+        "german": "die Reibe",
+        "hu": "reszelő"
+      }
+    },
+    {
+      "id": "etel_ital.h_moz.218",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "peeler",
+        "german": "das Schälmesser",
+        "hu": "hámozó"
+      }
+    },
+    {
+      "id": "etel_ital.konzervnyit.219",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "can opener",
+        "german": "der Dosenöffner",
+        "hu": "konzervnyitó"
+      }
+    },
+    {
+      "id": "etel_ital.m_r_ed_ny.220",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "measuring cup",
+        "german": "die Messkanne",
+        "hu": "mérőedény"
+      }
+    },
+    {
+      "id": "etel_ital.konyhai_id_z_t.221",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "kitchen timer",
+        "german": "die Küchenuhr",
+        "hu": "konyhai időzítő"
+      }
+    },
+    {
+      "id": "etel_ital.telt_rol_doboz.222",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "food container",
+        "german": "die Frischhaltedose",
+        "hu": "ételtároló doboz"
+      }
+    },
+    {
+      "id": "etel_ital.folpack.223",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "cling film",
+        "german": "die Frischhaltefolie",
+        "hu": "folpack"
+      }
+    },
+    {
+      "id": "etel_ital.aluf_lia.224",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "foil",
+        "german": "die Alufolie",
+        "hu": "alufólia"
+      }
+    },
+    {
+      "id": "etel_ital.pap_rt_rl.225",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "paper towel",
+        "german": "das Küchenpapír",
+        "hu": "papírtörlő"
+      }
+    },
+    {
+      "id": "etel_ital.szalv_ta.226",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "napkin",
+        "german": "die Serviette",
+        "hu": "szalvéta"
+      }
+    },
+    {
+      "id": "etel_ital.szomjas_vagyok.227",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "I'm thirsty",
+        "german": "Ich habe Durst",
+        "hu": "Szomjas vagyok"
+      }
+    },
+    {
+      "id": "etel_ital.j_tv_gyat.228",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Bon appetit",
+        "german": "Guten Appetit",
+        "hu": "Jó étvágyat"
+      }
+    },
+    {
+      "id": "etel_ital.eg_szs_gedre.229",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Cheers!",
+        "german": "Prost!",
+        "hu": "Egészségedre!"
+      }
+    },
+    {
+      "id": "etel_ital.allergi_s_vagyok_a_di_f_l_kre.230",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "I'm allergic to nuts",
+        "german": "Ich bin allergisch gegen Nüsse",
+        "hu": "Allergiás vagyok a diófélékre"
+      }
+    },
+    {
+      "id": "etel_ital.cukor_n_lk_l_k_rem.231",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "No sugar, please",
+        "german": "Ohne Zucker, bitte",
+        "hu": "Cukor nélkül, kérem"
+      }
+    },
+    {
+      "id": "etel_ital.csapv_z_j.232",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Tap water is fine",
+        "german": "Leitungswasser ist in Ordnung",
+        "hu": "Csapvíz jó"
+      }
+    },
+    {
+      "id": "etel_ital.oszthatjuk_a_sz_ml_t.233",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Could we split the bill?",
+        "german": "Können wir die Rechnung teilen?",
+        "hu": "Oszthatjuk a számlát?"
+      }
+    },
+    {
+      "id": "etel_ital.ugyanazt_k_rem.234",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "I'll have the same",
+        "german": "Ich nehme dasselbe",
+        "hu": "Ugyanazt kérem"
+      }
+    },
+    {
+      "id": "etel_ital.ts_lt_k_zepesen_s_lt_h_s.235",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Medium rare",
+        "german": "medium",
+        "hu": "átsült/közepesen sült (hús)"
+      }
+    },
+    {
+      "id": "etel_ital.veget_ri_nus_fog_s.236",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Vegetarian option",
+        "german": "die vegetarische Option",
+        "hu": "vegetáriánus fogás"
+      }
+    },
+    {
+      "id": "etel_ital.glut_nmentes.237",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Gluten-free",
+        "german": "glutenfrei",
+        "hu": "gluténmentes"
+      }
+    },
+    {
+      "id": "etel_ital.lakt_zmentes.238",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Lactose-free",
+        "german": "laktosefrei",
+        "hu": "laktózmentes"
+      }
+    },
+    {
+      "id": "etel_ital.elvitel_doboz.239",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Takeaway box",
+        "german": "die Take-away-Schachtel",
+        "hu": "elvitel doboz"
+      }
+    },
+    {
+      "id": "etel_ital.marad_k_elviteles_doboz.240",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "english": "Doggy bag",
+        "german": "die Restepackung",
+        "hu": "maradék elviteles doboz"
+      }
+    },
+    {
+      "id": "munka_iroda.hat_rid.241",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "deadline",
+        "german": "die Frist",
+        "hu": "határidő"
+      }
+    },
+    {
+      "id": "munka_iroda.rtekezlet.242",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "meeting",
+        "german": "die Besprechung",
+        "hu": "értekezlet"
+      }
+    },
+    {
+      "id": "munka_iroda.t_bl_zat.243",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "spreadsheet",
+        "german": "die Tabelle",
+        "hu": "táblázat"
+      }
+    },
+    {
+      "id": "munka_iroda.sz_mla_zleti.244",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "invoice",
+        "german": "die Rechnung",
+        "hu": "számla (üzleti)"
+      }
+    },
+    {
+      "id": "munka_iroda.szerz_d_s.245",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "contract",
+        "german": "der Vertrag",
+        "hu": "szerződés"
+      }
+    },
+    {
+      "id": "munka_iroda.koll_ga.246",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "colleague",
+        "german": "der Kollege",
+        "hu": "kolléga"
+      }
+    },
+    {
+      "id": "munka_iroda.felettes.247",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "supervisor",
+        "german": "der Vorgesetzte",
+        "hu": "felettes"
+      }
+    },
+    {
+      "id": "munka_iroda.alkalmazott.248",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "employee",
+        "german": "der Angestellte",
+        "hu": "alkalmazott"
+      }
+    },
+    {
+      "id": "munka_iroda.munk_ltat.249",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "employer",
+        "german": "der Arbeitgeber",
+        "hu": "munkáltató"
+      }
+    },
+    {
+      "id": "munka_iroda.fizet_s.250",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "salary",
+        "german": "das Gehalt",
+        "hu": "fizetés"
+      }
+    },
+    {
+      "id": "munka_iroda.el_l_ptet_s.251",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "promotion",
+        "german": "die Beförderung",
+        "hu": "előléptetés"
+      }
+    },
+    {
+      "id": "munka_iroda.felmond_s.252",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "resignation",
+        "german": "die Kündigung",
+        "hu": "felmondás"
+      }
+    },
+    {
+      "id": "munka_iroda.t_vmunka.253",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "remote work",
+        "german": "die Heimarbeit",
+        "hu": "távmunka"
+      }
+    },
+    {
+      "id": "munka_iroda.t_l_ra.254",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "overtime",
+        "german": "die Überstunden",
+        "hu": "túlóra"
+      }
+    },
+    {
+      "id": "munka_iroda.m_szak.255",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "shift",
+        "german": "die Schicht",
+        "hu": "műszak"
+      }
+    },
+    {
+      "id": "munka_iroda.visszajelz_s.256",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "feedback",
+        "german": "das Feedback",
+        "hu": "visszajelzés"
+      }
+    },
+    {
+      "id": "munka_iroda.tletel_s.257",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "brainstorming",
+        "german": "das Brainstorming",
+        "hu": "ötletelés"
+      }
+    },
+    {
+      "id": "munka_iroda.el_ad_s_bemutat.258",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "presentation",
+        "german": "die Präsentation",
+        "hu": "előadás/bemutató"
+      }
+    },
+    {
+      "id": "munka_iroda.k_lts_gvet_s.259",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "budget",
+        "german": "das Budget",
+        "hu": "költségvetés"
+      }
+    },
+    {
+      "id": "munka_iroda.projektmenedzser.260",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "project manager",
+        "german": "der Projektleiter",
+        "hu": "projektmenedzser"
+      }
+    },
+    {
+      "id": "munka_iroda.temezz_nk_be_egy_megbesz_l_st.261",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "Let's schedule a meeting",
+        "german": "Lass uns ein Meeting vereinbaren",
+        "hu": "Ütemezzünk be egy megbeszélést"
+      }
+    },
+    {
+      "id": "munka_iroda.k_ld_k_neked_egy_emailt.262",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "I'll send you an email",
+        "german": "Ich schicke dir eine E-Mail",
+        "hu": "Küldök neked egy emailt"
+      }
+    },
+    {
+      "id": "munka_iroda.t_tudjuk_temezni.263",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "Can we reschedule?",
+        "german": "Können wir verschieben?",
+        "hu": "Át tudjuk ütemezni?"
+      }
+    },
+    {
+      "id": "munka_iroda.dolgozom_rajta.264",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "I'm working on it",
+        "german": "Ich arbeite daran",
+        "hu": "Dolgozom rajta"
+      }
+    },
+    {
+      "id": "munka_iroda.mi_a_hat_rid.265",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "What's the deadline?",
+        "german": "Was ist die Frist?",
+        "hu": "Mi a határidő?"
+      }
+    },
+    {
+      "id": "munka_iroda.t_z_g_p.266",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "stapler",
+        "german": "der Hefter",
+        "hu": "tűzőgép"
+      }
+    },
+    {
+      "id": "munka_iroda.gemkapocs.267",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "paper clip",
+        "german": "die Büroklammer",
+        "hu": "gemkapocs"
+      }
+    },
+    {
+      "id": "munka_iroda.ntapad_s_cetli.268",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "sticky note",
+        "german": "der Haftzettel",
+        "hu": "öntapadós cetli"
+      }
+    },
+    {
+      "id": "munka_iroda.feh_rt_bla.269",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "whiteboard",
+        "german": "das Whiteboard",
+        "hu": "fehértábla"
+      }
+    },
+    {
+      "id": "munka_iroda.kivet_t.270",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "projector",
+        "german": "der Projektor",
+        "hu": "kivetítő"
+      }
+    },
+    {
+      "id": "munka_iroda.fejhallgat.271",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "headphones",
+        "german": "der Kopfhörer",
+        "hu": "fejhallgató"
+      }
+    },
+    {
+      "id": "munka_iroda.t_lt.272",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "charger",
+        "german": "das Ladekabel",
+        "hu": "töltő"
+      }
+    },
+    {
+      "id": "munka_iroda.jelsz.273",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "password",
+        "german": "das Passwort",
+        "hu": "jelszó"
+      }
+    },
+    {
+      "id": "munka_iroda.mell_klet_email.274",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "attachment",
+        "german": "der Anhang",
+        "hu": "melléklet (email)"
+      }
+    },
+    {
+      "id": "munka_iroda.bej_v_levelek.275",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "inbox",
+        "german": "der Posteingang",
+        "hu": "bejövő levelek"
+      }
+    },
+    {
+      "id": "munka_iroda.irod_n_k_v_l.276",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "out of office",
+        "german": "außer Haus",
+        "hu": "irodán kívül"
+      }
+    },
+    {
+      "id": "munka_iroda.telefonkonferencia.277",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "conference call",
+        "german": "die Telefonkonferenz",
+        "hu": "telefonkonferencia"
+      }
+    },
+    {
+      "id": "munka_iroda.napirend.278",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "agenda",
+        "german": "die Tagesordnung",
+        "hu": "napirend"
+      }
+    },
+    {
+      "id": "munka_iroda.jegyz_k_nyv.279",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "minutes",
+        "german": "das Protokoll",
+        "hu": "jegyzőkönyv"
+      }
+    },
+    {
+      "id": "munka_iroda.munkaterhel_s.280",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "workload",
+        "german": "die Arbeitsbelastung",
+        "hu": "munkaterhelés"
+      }
+    },
+    {
+      "id": "munka_iroda.feladat.281",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "task",
+        "german": "die Aufgabe",
+        "hu": "feladat"
+      }
+    },
+    {
+      "id": "munka_iroda.priorit_s.282",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "priority",
+        "german": "die Priorität",
+        "hu": "prioritás"
+      }
+    },
+    {
+      "id": "munka_iroda.jelent_s.283",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "report",
+        "german": "der Bericht",
+        "hu": "jelentés"
+      }
+    },
+    {
+      "id": "munka_iroda.v_zlat_piszkozat.284",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "draft",
+        "german": "der Entwurf",
+        "hu": "vázlat/piszkozat"
+      }
+    },
+    {
+      "id": "munka_iroda.j_v_hagy_s.285",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "approval",
+        "german": "die Genehmigung",
+        "hu": "jóváhagyás"
+      }
+    },
+    {
+      "id": "munka_iroda.al_r_s.286",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "signature",
+        "german": "die Unterschrift",
+        "hu": "aláírás"
+      }
+    },
+    {
+      "id": "munka_iroda.mappa.287",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "folder",
+        "german": "der Ordner",
+        "hu": "mappa"
+      }
+    },
+    {
+      "id": "munka_iroda.iratt_rol_szekr_ny.288",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "filing cabinet",
+        "german": "der Aktenschrank",
+        "hu": "irattároló szekrény"
+      }
+    },
+    {
+      "id": "munka_iroda.n_vjegyk_rtya.289",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "business card",
+        "german": "die Visitenkarte",
+        "hu": "névjegykártya"
+      }
+    },
+    {
+      "id": "munka_iroda.ll_sinterj.290",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "job interview",
+        "german": "das Vorstellungsgespräch",
+        "hu": "állásinterjú"
+      }
+    },
+    {
+      "id": "munka_iroda.gyakornoks_g.291",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "internship",
+        "german": "das Praktikum",
+        "hu": "gyakornokság"
+      }
+    },
+    {
+      "id": "munka_iroda.pr_baid.292",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "probation period",
+        "german": "die Probezeit",
+        "hu": "próbaidő"
+      }
+    },
+    {
+      "id": "munka_iroda.fizet_semel_s.293",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "pay raise",
+        "german": "die Gehaltserhöhung",
+        "hu": "fizetésemelés"
+      }
+    },
+    {
+      "id": "munka_iroda.pr_mium.294",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "bonus",
+        "german": "die Prämie",
+        "hu": "prémium"
+      }
+    },
+    {
+      "id": "munka_iroda.sz_mlasz_m.295",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "invoice number",
+        "german": "die Rechnungsnummer",
+        "hu": "számlaszám"
+      }
+    },
+    {
+      "id": "munka_iroda.megrendel_lap.296",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "purchase order",
+        "german": "der Bestellauftrag",
+        "hu": "megrendelőlap"
+      }
+    },
+    {
+      "id": "munka_iroda.munkaid_nyilv_ntart_s.297",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "timesheet",
+        "german": "die Stundenzettel",
+        "hu": "munkaidő-nyilvántartás"
+      }
+    },
+    {
+      "id": "munka_iroda.b_rjegyz_k.298",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "payroll",
+        "german": "die Gehaltsabrechnung",
+        "hu": "bérjegyzék"
+      }
+    },
+    {
+      "id": "munka_iroda.ad_azonos_t.299",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "tax ID",
+        "german": "die Steuer-ID",
+        "hu": "adóazonosító"
+      }
+    },
+    {
+      "id": "munka_iroda.zleti_t.300",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "business trip",
+        "german": "die Geschäftsreise",
+        "hu": "üzleti út"
+      }
+    },
+    {
+      "id": "munka_iroda.k_lts_gelsz_mol_s.301",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "expense report",
+        "german": "die Spesenabrechnung",
+        "hu": "költségelszámolás"
+      }
+    },
+    {
+      "id": "munka_iroda.nyugta.302",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "receipt",
+        "german": "die Quittung",
+        "hu": "nyugta"
+      }
+    },
+    {
+      "id": "munka_iroda.tik_lts_g.303",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "mileage",
+        "german": "die Kilometerpauschale",
+        "hu": "útiköltség"
+      }
+    },
+    {
+      "id": "munka_iroda.vpn.304",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "VPN",
+        "german": "das VPN",
+        "hu": "VPN"
+      }
+    },
+    {
+      "id": "munka_iroda.k_perny_k_p.305",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "screenshot",
+        "german": "der Screenshot",
+        "hu": "képernyőkép"
+      }
+    },
+    {
+      "id": "munka_iroda.vide_h_v_s.306",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "video call",
+        "german": "der Videoanruf",
+        "hu": "videóhívás"
+      }
+    },
+    {
+      "id": "munka_iroda.megosztott_meghajt.307",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "shared drive",
+        "german": "die freigegebene Ablage",
+        "hu": "megosztott meghajtó"
+      }
+    },
+    {
+      "id": "munka_iroda.napt_rmegh_v.308",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "calendar invite",
+        "german": "die Kalendereinladung",
+        "hu": "naptármeghívó"
+      }
+    },
+    {
+      "id": "munka_iroda.beteg_llom_nyban.309",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "out sick",
+        "german": "krankgeschrieben",
+        "hu": "betegállományban"
+      }
+    },
+    {
+      "id": "munka_iroda.betegszabads_g.310",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "sick leave",
+        "german": "der Krankenstand",
+        "hu": "betegszabadság"
+      }
+    },
+    {
+      "id": "munka_iroda.szabadnapok.311",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "vacation days",
+        "german": "die Urlaubstage",
+        "hu": "szabadnapok"
+      }
+    },
+    {
+      "id": "munka_iroda.nnepnap.312",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "public holiday",
+        "german": "der Feiertag",
+        "hu": "ünnepnap"
+      }
+    },
+    {
+      "id": "munka_iroda.hr_oszt_ly.313",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "HR department",
+        "german": "die Personalabteilung",
+        "hu": "HR osztály"
+      }
+    },
+    {
+      "id": "munka_iroda.it_gyf_lszolg_lat.314",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "IT support",
+        "german": "der IT-Support",
+        "hu": "IT ügyfélszolgálat"
+      }
+    },
+    {
+      "id": "munka_iroda.hibajegy.315",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "help desk ticket",
+        "german": "das Ticket",
+        "hu": "hibajegy"
+      }
+    },
+    {
+      "id": "munka_iroda.jelsz_vissza_ll_t_s.316",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "password reset",
+        "german": "das Passwort zurücksetzen",
+        "hu": "jelszó visszaállítás"
+      }
+    },
+    {
+      "id": "munka_iroda.k_tl_pcs_s_azonos_t_s.317",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "two-factor authentication",
+        "german": "die Zwei-Faktor-Authentifizierung",
+        "hu": "kétlépcsős azonosítás"
+      }
+    },
+    {
+      "id": "munka_iroda.titoktart_si_szerz_d_s.318",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "NDA",
+        "german": "die Geheimhaltungsvereinbarung",
+        "hu": "titoktartási szerződés"
+      }
+    },
+    {
+      "id": "munka_iroda.kpi_kulcsmutat.319",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "KPI",
+        "german": "die KPI",
+        "hu": "KPI / kulcsmutató"
+      }
+    },
+    {
+      "id": "munka_iroda.okr_c_lok.320",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "OKR",
+        "german": "die OKRs",
+        "hu": "OKR célok"
+      }
+    },
+    {
+      "id": "munka_iroda.titervek.321",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "roadmap",
+        "german": "die Roadmap",
+        "hu": "útitervek"
+      }
+    },
+    {
+      "id": "munka_iroda.rdekelt_f_l.322",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "stakeholder",
+        "german": "der Stakeholder",
+        "hu": "érdekelt fél"
+      }
+    },
+    {
+      "id": "munka_iroda.besz_ll_t.323",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "vendor",
+        "german": "der Lieferant",
+        "hu": "beszállító"
+      }
+    },
+    {
+      "id": "munka_iroda.gyf_l.324",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "client",
+        "german": "der Kunde",
+        "hu": "ügyfél"
+      }
+    },
+    {
+      "id": "munka_iroda.lej_rt_hat_ridej_sz_mla.325",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "invoice overdue",
+        "german": "überfällige Rechnung",
+        "hu": "lejárt határidejű számla"
+      }
+    },
+    {
+      "id": "munka_iroda.eml_keztet_email.326",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "follow-up email",
+        "german": "die Follow-up-E-Mail",
+        "hu": "emlékeztető email"
+      }
+    },
+    {
+      "id": "munka_iroda.rj_r_m_pingelj.327",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "ping me",
+        "german": "Schreib mir kurz",
+        "hu": "Írj rám / pingelj"
+      }
+    },
+    {
+      "id": "munka_iroda.bevonni_valakit_cc.328",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "loop someone in",
+        "german": "jemanden in CC setzen",
+        "hu": "bevonni valakit (CC)"
+      }
+    },
+    {
+      "id": "munka_iroda.el_zetes_rtes_t_s.329",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "heads-up",
+        "german": "ein kurzer Hinweis",
+        "hu": "előzetes értesítés"
+      }
+    },
+    {
+      "id": "munka_iroda.t_j_koztat_sul.330",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "FYI",
+        "german": "zu deiner Information",
+        "hu": "tájékoztatásul"
+      }
+    },
+    {
+      "id": "munka_iroda.amint_lehet.331",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "ASAP",
+        "german": "so bald wie möglich",
+        "hu": "amint lehet"
+      }
+    },
+    {
+      "id": "munka_iroda.munkanap_v_ge.332",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "EOB",
+        "german": "Ende des Arbeitstags",
+        "hu": "munkanap vége"
+      }
+    },
+    {
+      "id": "munka_iroda.ma_t_vmunka.333",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "WFH today",
+        "german": "Heute im Homeoffice",
+        "hu": "Ma távmunka"
+      }
+    },
+    {
+      "id": "munka_iroda.kapacit_s.334",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "capacity",
+        "german": "die Kapazität",
+        "hu": "kapacitás"
+      }
+    },
+    {
+      "id": "munka_iroda.feladatk_r_sz_tfoly_sa.335",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "scope creep",
+        "german": "der Scope Creep",
+        "hu": "feladatkör szétfolyása"
+      }
+    },
+    {
+      "id": "munka_iroda.tad_s.336",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "handover",
+        "german": "die Übergabe",
+        "hu": "átadás"
+      }
+    },
+    {
+      "id": "munka_iroda.bek_sz_ntet_s.337",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "onboarding",
+        "german": "das Onboarding",
+        "hu": "beköszöntetés"
+      }
+    },
+    {
+      "id": "munka_iroda.kil_p_s_folyamata.338",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "offboarding",
+        "german": "das Offboarding",
+        "hu": "kilépés folyamata"
+      }
+    },
+    {
+      "id": "munka_iroda.teljes_tm_ny_rt_kel_s.339",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "performance review",
+        "german": "das Leistungsgespräch",
+        "hu": "teljesítményértékelés"
+      }
+    },
+    {
+      "id": "munka_iroda.egy_az_egyben_besz_lget_s.340",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "one-on-one",
+        "german": "das Einzelgespräch",
+        "hu": "egy az egyben beszélgetés"
+      }
+    },
+    {
+      "id": "munka_iroda.tugrott_szint_megbesz_l_s.341",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "skip-level meeting",
+        "german": "das Skip-Level-Meeting",
+        "hu": "átugrott szintű megbeszélés"
+      }
+    },
+    {
+      "id": "munka_iroda.napi_stand_up.342",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "stand-up meeting",
+        "german": "das Daily Stand-up",
+        "hu": "napi stand-up"
+      }
+    },
+    {
+      "id": "munka_iroda.jegyz_k_nyvvezet.343",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "minutes taker",
+        "german": "die Protokollführung",
+        "hu": "jegyzőkönyvvezető"
+      }
+    },
+    {
+      "id": "munka_iroda.feladatlista.344",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "action items",
+        "german": "die Aufgaben",
+        "hu": "feladatlista"
+      }
+    },
+    {
+      "id": "munka_iroda.akad_ly.345",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "blocker",
+        "german": "das Hindernis",
+        "hu": "akadály"
+      }
+    },
+    {
+      "id": "munka_iroda.f_gg_s_g.346",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "dependency",
+        "german": "die Abhängigkeit",
+        "hu": "függőség"
+      }
+    },
+    {
+      "id": "munka_iroda.kock_zatelemz_s.347",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "risk assessment",
+        "german": "die Risikobewertung",
+        "hu": "kockázatelemzés"
+      }
+    },
+    {
+      "id": "munka_iroda.vissza_ll_t_si_terv.348",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "rollback plan",
+        "german": "der Rollback-Plan",
+        "hu": "visszaállítási terv"
+      }
+    },
+    {
+      "id": "munka_iroda.gyors_jav_t_s.349",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "hotfix",
+        "german": "der Hotfix",
+        "hu": "gyors javítás"
+      }
+    },
+    {
+      "id": "munka_iroda.kiad_si_megjegyz_sek.350",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "release notes",
+        "german": "die Release Notes",
+        "hu": "kiadási megjegyzések"
+      }
+    },
+    {
+      "id": "munka_iroda.b_ta_teszt.351",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "beta testing",
+        "german": "der Beta-Test",
+        "hu": "béta teszt"
+      }
+    },
+    {
+      "id": "munka_iroda.bemutat_m_solat.352",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "copy deck",
+        "german": "die Präsentationskopie",
+        "hu": "bemutató másolat"
+      }
+    },
+    {
+      "id": "munka_iroda.jegyz_k_nyv_memos.353",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "memo",
+        "german": "die Notiz",
+        "hu": "jegyzőkönyv/memos"
+      }
+    },
+    {
+      "id": "munka_iroda.lev_lpap_r_fejl_c.354",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "letterhead",
+        "german": "der Briefkopf",
+        "hu": "levélpapír fejléc"
+      }
+    },
+    {
+      "id": "munka_iroda.digit_lis_v_zjel.355",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "watermark",
+        "german": "das Wasserzeichen",
+        "hu": "digitális vízjel"
+      }
+    },
+    {
+      "id": "munka_iroda.qr_k_d.356",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "QR code",
+        "german": "der QR-Code",
+        "hu": "QR-kód"
+      }
+    },
+    {
+      "id": "munka_iroda.vonalk_d.357",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "barcode",
+        "german": "der Strichcode",
+        "hu": "vonalkód"
+      }
+    },
+    {
+      "id": "munka_iroda.irodaszer.358",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "office supplies",
+        "german": "die Büromaterialien",
+        "hu": "irodaszer"
+      }
+    },
+    {
+      "id": "munka_iroda.nyomtat_patron.359",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "printer cartridge",
+        "german": "die Druckerpatrone",
+        "hu": "nyomtatópatron"
+      }
+    },
+    {
+      "id": "munka_iroda.pap_relakad_s.360",
+      "topicId": "Munka & Iroda",
+      "translations": {
+        "english": "paper jam",
+        "german": "das Papierstau",
+        "hu": "papírelakadás"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.zivatar.361",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "thunderstorm",
+        "german": "das Gewitter",
+        "hu": "zivatar"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.j_ges.362",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hailstorm",
+        "german": "der Hagel",
+        "hu": "jégeső"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szit_l_s_szemerk_l_s.363",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "drizzle",
+        "german": "der Nieselregen",
+        "hu": "szitálás/szemerkélés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.k_d.364",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "fog",
+        "german": "der Nebel",
+        "hu": "köd"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.fagy_d_r.365",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "frost",
+        "german": "der Frost",
+        "hu": "fagy/dér"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.h_hull_m.366",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "heatwave",
+        "german": "die Hitzewelle",
+        "hu": "hőhullám"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szell.367",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "breeze",
+        "german": "die Brise",
+        "hu": "szellő"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sz_ll_k_s.368",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "gust",
+        "german": "die Windböe",
+        "hu": "széllökés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.p_ratartalom.369",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "humidity",
+        "german": "die Luftfeuchtigkeit",
+        "hu": "páratartalom"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.id_j_r_s_el_rejelz_s.370",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "forecast",
+        "german": "die Wettervorhersage",
+        "hu": "időjárás-előrejelzés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szakad_az_es.371",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "It's pouring",
+        "german": "Es schüttet",
+        "hu": "Szakad az eső"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.csikorg_hideg_van.372",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "It's freezing",
+        "german": "Es ist eiskalt",
+        "hu": "Csikorgó hideg van"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.f_lledt_az_id.373",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "It's muggy",
+        "german": "Es ist schwül",
+        "hu": "Fülledt az idő"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.s_t_a_nap.374",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "The sun is out",
+        "german": "Die Sonne scheint",
+        "hu": "Süt a nap"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.vihar_k_zeledik.375",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "There's a storm coming",
+        "german": "Ein Sturm zieht auf",
+        "hu": "Vihar közeledik"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sziklapart_szirt.376",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "cliff",
+        "german": "die Klippe",
+        "hu": "sziklapart/szirt"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.v_lgy.377",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "valley",
+        "german": "das Tal",
+        "hu": "völgy"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.r_t.378",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "meadow",
+        "german": "die Wiese",
+        "hu": "rét"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.mocs_r.379",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "swamp",
+        "german": "der Sumpf",
+        "hu": "mocsár"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.v_zes_s.380",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "waterfall",
+        "german": "der Wasserfall",
+        "hu": "vízesés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.gleccser.381",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "glacier",
+        "german": "der Gletscher",
+        "hu": "gleccser"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.hegygerinc.382",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "ridge",
+        "german": "der Bergrücken",
+        "hu": "hegygerinc"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.partvid_k.383",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "shore",
+        "german": "das Ufer",
+        "hu": "partvidék"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.dag_ly_ap_ly.384",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "tide",
+        "german": "die Gezeiten",
+        "hu": "dagály/apály"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.hull_m.385",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "wave",
+        "german": "die Welle",
+        "hu": "hullám"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.t_lgyfa.386",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "oak tree",
+        "german": "die Eiche",
+        "hu": "tölgyfa"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.feny_fa.387",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pine tree",
+        "german": "die Kiefer",
+        "hu": "fenyőfa"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.ny_rfa.388",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "birch tree",
+        "german": "die Birke",
+        "hu": "nyírfa"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.f_zfa.389",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "willow tree",
+        "german": "die Weide",
+        "hu": "fűzfa"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.moha.390",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "moss",
+        "german": "das Moos",
+        "hu": "moha"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.p_fr_ny.391",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "fern",
+        "german": "der Farn",
+        "hu": "páfrány"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.gomba.392",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "mushroom",
+        "german": "der Pilz",
+        "hu": "gomba"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.makk.393",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "acorn",
+        "german": "die Eichel",
+        "hu": "makk"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.toboz.394",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pinecone",
+        "german": "der Tannenzapfen",
+        "hu": "toboz"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.s_n.395",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hedgehog",
+        "german": "der Igel",
+        "hu": "sün"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.r_ka.396",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "fox",
+        "german": "der Fuchs",
+        "hu": "róka"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szarvas.397",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "deer",
+        "german": "der Hirsch",
+        "hu": "szarvas"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.bagoly.398",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "owl",
+        "german": "die Eule",
+        "hu": "bagoly"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.denev_r.399",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "bat",
+        "german": "die Fledermaus",
+        "hu": "denevér"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szitak_t.400",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "dragonfly",
+        "german": "die Libelle",
+        "hu": "szitakötő"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.pillang.401",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "butterfly",
+        "german": "der Schmetterling",
+        "hu": "pillangó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.f_ldigiliszta.402",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "earthworm",
+        "german": "der Regenwurm",
+        "hu": "földigiliszta"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.csiga.403",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "snail",
+        "german": "die Schnecke",
+        "hu": "csiga"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.katicabog_r.404",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "ladybug",
+        "german": "der Marienkäfer",
+        "hu": "katicabogár"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sziv_rv_ny.405",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "rainbow",
+        "german": "der Regenbogen",
+        "hu": "szivárvány"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.napkelte.406",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "sunrise",
+        "german": "der Sonnenaufgang",
+        "hu": "napkelte"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.naplemente.407",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "sunset",
+        "german": "der Sonnenuntergang",
+        "hu": "naplemente"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.telihold.408",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "full moon",
+        "german": "der Vollmond",
+        "hu": "telihold"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.hull_csillag.409",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "shooting star",
+        "german": "die Sternschnuppe",
+        "hu": "hullócsillag"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sarki_f_ny.410",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "northern lights",
+        "german": "das Nordlicht",
+        "hu": "sarki fény"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.vill_m.411",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "lightning",
+        "german": "der Blitz",
+        "hu": "villám"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.mennyd_rg_s.412",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "thunder",
+        "german": "der Donner",
+        "hu": "mennydörgés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.h_pehely.413",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "snowflake",
+        "german": "die Schneeflocke",
+        "hu": "hópehely"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.h_vihar.414",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "blizzard",
+        "german": "der Schneesturm",
+        "hu": "hóvihar"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.dara_havas_es.415",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "sleet",
+        "german": "der Graupel",
+        "hu": "dara/havas eső"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.lavina.416",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "avalanche",
+        "german": "die Lawine",
+        "hu": "lavina"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.asz_ly.417",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "drought",
+        "german": "die Dürre",
+        "hu": "aszály"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.rv_z.418",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "flood",
+        "german": "die Flut",
+        "hu": "árvíz"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.erd_t_z.419",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "wildfire",
+        "german": "das Waldbrand",
+        "hu": "erdőtűz"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.f_ldreng_s.420",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "earthquake",
+        "german": "das Erdbeben",
+        "hu": "földrengés"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.vulk_n.421",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "volcano",
+        "german": "der Vulkan",
+        "hu": "vulkán"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.kr_ter.422",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "crater",
+        "german": "der Krater",
+        "hu": "kráter"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.gejz_r.423",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "geyser",
+        "german": "der Geysir",
+        "hu": "gejzír"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.term_lv_z_forr_s.424",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hot spring",
+        "german": "die Thermalquelle",
+        "hu": "termálvíz/forrás"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.szurdok.425",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "canyon",
+        "german": "der Canyon",
+        "hu": "szurdok"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.fenns_k.426",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "plateau",
+        "german": "das Plateau",
+        "hu": "fennsík"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.delta.427",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "delta",
+        "german": "das Delta",
+        "hu": "delta"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.ingov_ny.428",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "marsh",
+        "german": "das Sumpfland",
+        "hu": "ingovány"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.n_d.429",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "reed",
+        "german": "das Schilf",
+        "hu": "nád"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.kavics.430",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pebble",
+        "german": "der Kieselstein",
+        "hu": "kavics"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.homokd_ne.431",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "sand dune",
+        "german": "die Sanddüne",
+        "hu": "homokdűne"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.torn_d.432",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "tornado",
+        "german": "der Tornado",
+        "hu": "tornádó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.hurrik_n.433",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hurricane",
+        "german": "der Hurrikan",
+        "hu": "hurrikán"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.ciklon.434",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "cyclone",
+        "german": "der Zyklon",
+        "hu": "ciklon"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sz_lh_t_s_hat_sa.435",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "wind chill",
+        "german": "der Windchill-Faktor",
+        "hu": "szélhűtés hatása"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.uv_index.436",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "UV index",
+        "german": "der UV-Index",
+        "hu": "UV-index"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.pollensz_m.437",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pollen count",
+        "german": "die Pollenbelastung",
+        "hu": "pollenszám"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.vszak.438",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "season",
+        "german": "die Jahreszeit",
+        "hu": "évszak"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.napfordul.439",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "solstice",
+        "german": "die Sonnenwende",
+        "hu": "napforduló"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.nap_jegyenl_s_g.440",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "equinox",
+        "german": "die Tagundnachtgleiche",
+        "hu": "napéjegyenlőség"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.meleged_s_tavaszi_olvad_s.441",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "spring thaw",
+        "german": "das Tauwetter",
+        "hu": "melegedés/tavaszi olvadás"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.arat_s.442",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "harvest",
+        "german": "die Ernte",
+        "hu": "aratás"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.term_ny.443",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "crop",
+        "german": "die Feldfrucht",
+        "hu": "termény"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.traktor.444",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "tractor",
+        "german": "der Traktor",
+        "hu": "traktor"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.m_hkas.445",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "beehive",
+        "german": "der Bienenstock",
+        "hu": "méhkas"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.kas.446",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hive",
+        "german": "der Stock",
+        "hu": "kas"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.megporz.447",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pollinator",
+        "german": "der Bestäuber",
+        "hu": "megporzó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.f_szek.448",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "nest",
+        "german": "das Nest",
+        "hu": "fészek"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.barlang_b_v_hely.449",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "den",
+        "german": "die Höhle (Tier)",
+        "hu": "barlang/búvóhely"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.reg.450",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "burrow",
+        "german": "der Bau",
+        "hu": "üreg"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.nyomok.451",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "tracks",
+        "german": "die Spuren",
+        "hu": "nyomok"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.l_bnyom.452",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "footprints",
+        "german": "die Fußspuren",
+        "hu": "lábnyom"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sv_ny.453",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "trail",
+        "german": "der Wanderweg",
+        "hu": "ösvény"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.cs_cs.454",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "summit",
+        "german": "der Gipfel",
+        "hu": "csúcs"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.magass_g.455",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "altitude",
+        "german": "die Höhe",
+        "hu": "magasság"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.ir_nyt.456",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "compass",
+        "german": "der Kompass",
+        "hu": "iránytű"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.t_rk_p.457",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "map",
+        "german": "die Landkarte",
+        "hu": "térkép"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.dag_lymedence.458",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "tide pool",
+        "german": "das Gezeitentümpel",
+        "hu": "dagálymedence"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.korall.459",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "coral",
+        "german": "die Koralle",
+        "hu": "korall"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.h_n_r.460",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "seaweed",
+        "german": "der Seetang",
+        "hu": "hínár"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.kagyl.461",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "shell",
+        "german": "die Muschel",
+        "hu": "kagyló"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.r_k.462",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "crab",
+        "german": "die Krabbe",
+        "hu": "rák"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.med_za.463",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "jellyfish",
+        "german": "die Qualle",
+        "hu": "medúza"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sir_ly.464",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "seagull",
+        "german": "die Möwe",
+        "hu": "sirály"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.sas.465",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "eagle",
+        "german": "der Adler",
+        "hu": "sas"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.s_lyom.466",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hawk",
+        "german": "der Habicht",
+        "hu": "sólyom"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.holl.467",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "raven",
+        "german": "der Rabe",
+        "hu": "holló"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.farkas.468",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "wolf",
+        "german": "der Wolf",
+        "hu": "farkas"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.medve.469",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "bear",
+        "german": "der Bär",
+        "hu": "medve"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.ny_l.470",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "hare",
+        "german": "der Hase",
+        "hu": "nyúl"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.m_kus.471",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "squirrel",
+        "german": "das Eichhörnchen",
+        "hu": "mókus"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.h_d.472",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "beaver",
+        "german": "der Biber",
+        "hu": "hód"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.vidra.473",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "otter",
+        "german": "der Otter",
+        "hu": "vidra"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.patak.474",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "stream",
+        "german": "der Bach",
+        "hu": "patak"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.t_kis.475",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "pond",
+        "german": "der Teich",
+        "hu": "tó (kis)"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.t.476",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "lake",
+        "german": "der See",
+        "hu": "tó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.foly.477",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "river",
+        "german": "der Fluss",
+        "hu": "folyó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.r_ti_vir_g.478",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "meadow flower",
+        "german": "die Wiesenblume",
+        "hu": "réti virág"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.zuzm.479",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "lichen",
+        "german": "die Flechte",
+        "hu": "zuzmó"
+      }
+    },
+    {
+      "id": "termeszet_idojaras.harmat.480",
+      "topicId": "Természet & Időjárás",
+      "translations": {
+        "english": "dew",
+        "german": "der Tau",
+        "hu": "harmat"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.hogy_megy.481",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "How's it going?",
+        "german": "Wie läuft's?",
+        "hu": "Hogy megy?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem_rossz_k_sz_n_m.482",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Not bad, thanks",
+        "german": "Nicht schlecht, danke",
+        "hu": "Nem rossz, köszönöm"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.megism_teln_d.483",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Could you repeat that?",
+        "german": "Könnten Sie das wiederholen?",
+        "hu": "Megismételnéd?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.eln_z_st_nem_rtettem.484",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I beg your pardon?",
+        "german": "Wie bitte?",
+        "hu": "Elnézést, nem értettem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.semmi_gond_hagyd.485",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Never mind",
+        "german": "Schon gut",
+        "hu": "Semmi gond / Hagyd"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.csak_egy_pillanat.486",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Just a moment",
+        "german": "Einen Moment bitte",
+        "hu": "Csak egy pillanat"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mindj_rt_visszaj_v_k.487",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll be right back",
+        "german": "Ich bin gleich zurück",
+        "hu": "Mindjárt visszajövök"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.vigy_zz_magadra.488",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Take care",
+        "german": "Pass auf dich auf",
+        "hu": "Vigyázz magadra"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sz_p_napot.489",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Have a good one",
+        "german": "Schönen Tag noch",
+        "hu": "Szép napot"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.r_g_l_ttalak.490",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Long time no see",
+        "german": "Lange nicht gesehen",
+        "hu": "Rég láttalak"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.micsoda_v_letlen.491",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What a coincidence!",
+        "german": "Was für ein Zufall!",
+        "hu": "Micsoda véletlen!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.rajtad_m_lik.492",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "It's up to you",
+        "german": "Das liegt bei dir",
+        "hu": "Rajtad múlik"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.siet_s_dolgom_van.493",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm in a hurry",
+        "german": "Ich habe es eilig",
+        "hu": "Sietős dolgom van"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.tudn_l_seg_teni.494",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Could you help me?",
+        "german": "Könntest du mir helfen?",
+        "hu": "Tudnál segíteni?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem_rtem.495",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I don't understand",
+        "german": "Ich verstehe nicht",
+        "hu": "Nem értem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.tudn_l_lassabban_besz_lni.496",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Can you speak slower?",
+        "german": "Können Sie langsamer sprechen?",
+        "hu": "Tudnál lassabban beszélni?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mit_rtesz_ez_alatt.497",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What do you mean?",
+        "german": "Was meinst du damit?",
+        "hu": "Mit értesz ez alatt?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_logikus.498",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "That makes sense",
+        "german": "Das ergibt Sinn",
+        "hu": "Ez logikus"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.egyet_rtek.499",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I agree",
+        "german": "Ich stimme zu",
+        "hu": "Egyetértek"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem_rtek_egyet.500",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I disagree",
+        "german": "Ich stimme nicht zu",
+        "hu": "Nem értek egyet"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_egy_j_felvet_s.501",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "That's a good point",
+        "german": "Das ist ein guter Punkt",
+        "hu": "Ez egy jó felvetés"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.szint_n_sz_lva.502",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "To be honest",
+        "german": "Ehrlich gesagt",
+        "hu": "Őszintén szólva"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.m_s_sz_val.503",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "In other words",
+        "german": "Mit anderen Worten",
+        "hu": "Más szóval"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.p_ld_ul.504",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "For example",
+        "german": "Zum Beispiel",
+        "hu": "Például"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.m_sr_szt.505",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "On the other hand",
+        "german": "Andererseits",
+        "hu": "Másrészt"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.amennyire_tudom.506",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "As far as I know",
+        "german": "Soweit ich weiß",
+        "hu": "Amennyire tudom"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.fogalmam_sincs.507",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I have no idea",
+        "german": "Ich habe keine Ahnung",
+        "hu": "Fogalmam sincs"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sok_szerencs_t.508",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Good luck!",
+        "german": "Viel Glück!",
+        "hu": "Sok szerencsét!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sz_p_munka.509",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Well done!",
+        "german": "Gut gemacht!",
+        "hu": "Szép munka!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.gratul_lok.510",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Congratulations!",
+        "german": "Herzlichen Glückwunsch!",
+        "hu": "Gratulálok!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sajn_lom_hallani.511",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm sorry to hear that",
+        "german": "Das tut mir leid",
+        "hu": "Sajnálom hallani"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ne_cs_ggedj.512",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Cheer up!",
+        "german": "Kopf hoch!",
+        "hu": "Ne csüggedj!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.semmi_gond.513",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "No worries",
+        "german": "Kein Problem",
+        "hu": "Semmi gond"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.minden_rendben.514",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "It's fine",
+        "german": "Alles gut",
+        "hu": "Minden rendben"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mi_a_baj.515",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What's the matter?",
+        "german": "Was ist los?",
+        "hu": "Mi a baj?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.j_l_vagy.516",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Are you alright?",
+        "german": "Alles in Ordnung?",
+        "hu": "Jól vagy?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem_rzem_j_l_magam.517",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I feel under the weather",
+        "german": "Ich fühle mich nicht gut",
+        "hu": "Nem érzem jól magam"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.teljesen_ki_vagyok_mer_lve.518",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm exhausted",
+        "german": "Ich bin erschöpft",
+        "hu": "Teljesen ki vagyok merülve"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.alig_v_rom.519",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I can't wait!",
+        "german": "Ich kann es kaum erwarten!",
+        "hu": "Alig várom!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_sajn_latos.520",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "That's too bad",
+        "german": "Das ist schade",
+        "hu": "Ez sajnálatos"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.egy_bk_nt_mellesleg.521",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "By the way",
+        "german": "Übrigens",
+        "hu": "Egyébként / Mellesleg"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.aprop.522",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Speaking of which",
+        "german": "Da wir gerade dabei sind",
+        "hu": "Apropó"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.hadd_gondoljam_meg.523",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Let me think",
+        "german": "Lass mich nachdenken",
+        "hu": "Hadd gondoljam meg"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.igazad_van.524",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "You're right",
+        "german": "Du hast recht",
+        "hu": "Igazad van"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.szben_tartom.525",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll keep that in mind",
+        "german": "Das werde ich im Hinterkopf behalten",
+        "hu": "Észben tartom"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_att_l_f_gg.526",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "It depends",
+        "german": "Das kommt darauf an",
+        "hu": "Ez attól függ"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.t_bb_kevesebb_nagyj_b_l.527",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "More or less",
+        "german": "Mehr oder weniger",
+        "hu": "Több-kevesebb / Nagyjából"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.el_bb_vagy_ut_bb.528",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Sooner or later",
+        "german": "Früher oder später",
+        "hu": "Előbb vagy utóbb"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.n_ha_id_nk_nt.529",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Once in a while",
+        "german": "Ab und zu",
+        "hu": "Néha / Időnként"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.jobb_k_s_mint_soha.530",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Better late than never",
+        "german": "Besser spät als nie",
+        "hu": "Jobb késő, mint soha"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.k_s_bb_tal_lkozunk.531",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "See you later",
+        "german": "Bis später",
+        "hu": "Később találkozunk"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.holnap_tal_lkozunk.532",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "See you tomorrow",
+        "german": "Bis morgen",
+        "hu": "Holnap találkozunk"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.r_l_k_hogy_megismertelek.533",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Nice to meet you",
+        "german": "Freut mich",
+        "hu": "Örülök, hogy megismertelek"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.hogy_h_vnak.534",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What's your name?",
+        "german": "Wie heißt du?",
+        "hu": "Hogy hívnak?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.a_nevem.535",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "My name is …",
+        "german": "Ich heiße …",
+        "hu": "A nevem …"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.honnan_sz_rmazol.536",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Where are you from?",
+        "german": "Woher kommst du?",
+        "hu": "Honnan származol?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.magyarorsz_gr_l_j_v_k.537",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm from Hungary",
+        "german": "Ich komme aus Ungarn",
+        "hu": "Magyarországról jövök"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.h_ny_ves_vagy.538",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "How old are you?",
+        "german": "Wie alt bist du?",
+        "hu": "Hány éves vagy?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mi_a_foglalkoz_sod.539",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What do you do?",
+        "german": "Was machst du beruflich?",
+        "hu": "Mi a foglalkozásod?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.di_k_vagyok.540",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm a student",
+        "german": "Ich bin Student",
+        "hu": "Diák vagyok"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.eln_z_st.541",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Excuse me",
+        "german": "Entschuldigung",
+        "hu": "Elnézést"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.bocs_nat.542",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Sorry",
+        "german": "Tut mir leid",
+        "hu": "Bocsánat"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nagyon_k_sz_n_m.543",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Thank you very much",
+        "german": "Vielen Dank",
+        "hu": "Nagyon köszönöm"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sz_vesen.544",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "You're welcome",
+        "german": "Bitte schön",
+        "hu": "Szívesen"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.k_rem.545",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Please",
+        "german": "Bitte",
+        "hu": "Kérem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.igen.546",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Yes",
+        "german": "Ja",
+        "hu": "Igen"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem.547",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "No",
+        "german": "Nein",
+        "hu": "Nem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.tal_n.548",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Maybe",
+        "german": "Vielleicht",
+        "hu": "Talán"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.m_g_nem_tudom.549",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I don't know yet",
+        "german": "Weiß ich noch nicht",
+        "hu": "Még nem tudom"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.megn_zem.550",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll check",
+        "german": "Ich schaue nach",
+        "hu": "Megnézem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.j_l_hangzik.551",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Sounds good",
+        "german": "Klingt gut",
+        "hu": "Jól hangzik"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.csin_ljuk.552",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Let's do it",
+        "german": "Machen wir es",
+        "hu": "Csináljuk"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nem_vagyok_biztos_benne.553",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm not sure",
+        "german": "Ich bin mir nicht sicher",
+        "hu": "Nem vagyok biztos benne"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.lehetne_jobb_is.554",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Could be better",
+        "german": "Es könnte besser sein",
+        "hu": "Lehetne jobb is"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.most_elfoglalt_vagyok.555",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm busy right now",
+        "german": "Ich bin gerade beschäftigt",
+        "hu": "Most elfoglalt vagyok"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.rj_zenetet.556",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Text me",
+        "german": "Schreib mir eine Nachricht",
+        "hu": "Írj üzenetet"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.h_vj_vissza.557",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Call me back",
+        "german": "Ruf mich zurück",
+        "hu": "Hívj vissza"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.majd_sz_lok.558",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll let you know",
+        "german": "Ich gebe dir Bescheid",
+        "hu": "Majd szólok"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.tarts_t_j_koztatva.559",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Keep me posted",
+        "german": "Halte mich auf dem Laufenden",
+        "hu": "Tarts tájékoztatva"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.rendben_van_gy_is.560",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Fair enough",
+        "german": "Stimmt schon",
+        "hu": "Rendben van így is"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.teljesen.561",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Totally",
+        "german": "Total",
+        "hu": "Teljesen"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.pontosan.562",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Exactly",
+        "german": "Genau",
+        "hu": "Pontosan"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.azt_hiszem_igen.563",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I guess so",
+        "german": "Schätze schon",
+        "hu": "Azt hiszem, igen"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.egy_ltal_n_nem_gond.564",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "No problem at all",
+        "german": "Überhaupt kein Problem",
+        "hu": "Egyáltalán nem gond"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.az_n_hib_m.565",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "My mistake",
+        "german": "Mein Fehler",
+        "hu": "Az én hibám"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.maradjunk_elt_r_v_lem_nyen.566",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Let's agree to disagree",
+        "german": "Seien wir uns uneinig",
+        "hu": "Maradjunk eltérő véleményen"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ton_vagyok.567",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm on my way",
+        "german": "Ich bin unterwegs",
+        "hu": "Úton vagyok"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.k_sni_fogok.568",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm running late",
+        "german": "Ich komme zu spät",
+        "hu": "Késni fogok"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.rossz_volt_a_forgalom.569",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Traffic was bad",
+        "german": "Der Verkehr war schlecht",
+        "hu": "Rossz volt a forgalom"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.tal_lkozhatunk_f_l_ton.570",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Can we meet halfway?",
+        "german": "Können wir uns in der Mitte treffen?",
+        "hu": "Találkozhatunk félúton?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mikor_lenne_j_neked.571",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "What time works for you?",
+        "german": "Welche Zeit passt dir?",
+        "hu": "Mikor lenne jó neked?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.k_s_bb_meger_s_tem.572",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll confirm later",
+        "german": "Ich bestätige später",
+        "hu": "Később megerősítem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ne_agg_dj_miatta.573",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Don't worry about it",
+        "german": "Mach dir keine Gedanken",
+        "hu": "Ne aggódj miatta"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ne_siess.574",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Take your time",
+        "german": "Nimm dir Zeit",
+        "hu": "Ne siess"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.jobbul_st.575",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Get well soon",
+        "german": "Gute Besserung",
+        "hu": "Jobbulást"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.gratul_lok_a_sikerhez.576",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Congratulations on your success!",
+        "german": "Herzlichen Glückwunsch zum Erfolg!",
+        "hu": "Gratulálok a sikerhez!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.boldog_sz_let_snapot.577",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Happy birthday!",
+        "german": "Alles Gute zum Geburtstag!",
+        "hu": "Boldog születésnapot!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.boldog_j_vet.578",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Happy New Year!",
+        "german": "Frohes neues Jahr!",
+        "hu": "Boldog új évet!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.boldog_kar_csonyt.579",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Merry Christmas!",
+        "german": "Frohe Weihnachten!",
+        "hu": "Boldog karácsonyt!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.j_tv_gyat.580",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Enjoy your meal!",
+        "german": "Guten Appetit!",
+        "hu": "Jó étvágyat!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.j_utat.581",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Safe travels!",
+        "german": "Gute Reise!",
+        "hu": "Jó utat!"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sok_sikert_sz_nh_z.582",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Break a leg!",
+        "german": "Hals- und Beinbruch!",
+        "hu": "Sok sikert! (színház)"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.fa_kopogtat_s_szerencsehoz_babona.583",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Knock on wood",
+        "german": "Holz klopfen",
+        "hu": "Fa kopogtatás (szerencsehozó babona)"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.sz_m_ts_r_m.584",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Count me in",
+        "german": "Ich bin dabei",
+        "hu": "Számíts rám"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nincs_egy_vasam_sem.585",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm broke",
+        "german": "Ich bin pleite",
+        "hu": "Nincs egy vasam sem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_dr_ga.586",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "It's expensive",
+        "german": "Das ist teuer",
+        "hu": "Ez drága"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.ez_olcs.587",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "It's cheap",
+        "german": "Das ist billig",
+        "hu": "Ez olcsó"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.k_rty_val_fizethetek.588",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Can I pay by card?",
+        "german": "Kann ich mit Karte zahlen?",
+        "hu": "Kártyával fizethetek?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.csak_k_szp_nz.589",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Cash only",
+        "german": "Nur Barzahlung",
+        "hu": "Csak készpénz"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.hol_a_mosd.590",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Where is the restroom?",
+        "german": "Wo ist die Toilette?",
+        "hu": "Hol a mosdó?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.seg_ts_gre_van_sz_ks_gem.591",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I need help",
+        "german": "Ich brauche Hilfe",
+        "hu": "Segítségre van szükségem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.h_vd_a_rend_rs_get.592",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Call the police",
+        "german": "Ruf die Polizei",
+        "hu": "Hívd a rendőrséget"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.elt_vedtem.593",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'm lost",
+        "german": "Ich habe mich verirrt",
+        "hu": "Eltévedtem"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.besz_l_angolul.594",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Do you speak English?",
+        "german": "Sprechen Sie Englisch?",
+        "hu": "Beszél angolul?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.besz_l_n_met_l.595",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Do you speak German?",
+        "german": "Sprechen Sie Deutsch?",
+        "hu": "Beszél németül?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.egy_kicsit_besz_lek.596",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I speak a little …",
+        "german": "Ich spreche ein bisschen …",
+        "hu": "Egy kicsit beszélek …"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.le_rhatn.597",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Could you write it down?",
+        "german": "Könnten Sie das aufschreiben?",
+        "hu": "Leírhatná?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.mennyibe_ker_l.598",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "How much does it cost?",
+        "german": "Wie viel kostet das?",
+        "hu": "Mennyibe kerül?"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.nekem_t_l_dr_ga.599",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "Too expensive for me",
+        "german": "Zu teuer für mich",
+        "hu": "Nekem túl drága"
+      }
+    },
+    {
+      "id": "mindennapi_kifejezesek.meggondolom.600",
+      "topicId": "Mindennapi kifejezések",
+      "translations": {
+        "english": "I'll think about it",
+        "german": "Ich überlege es mir",
+        "hu": "Meggondolom"
+      }
+    },
+    {
+      "id": "otthon.szemetes_lap_t.601",
+      "topicId": "Otthon",
+      "translations": {
+        "german": "die Kehrschaufel",
+        "hu": "szemetes lapát"
+      }
+    },
+    {
+      "id": "etel_ital.frit_z.602",
+      "topicId": "Étel & Ital",
+      "translations": {
+        "german": "die Frittierpfanne",
+        "hu": "fritőz"
+      }
+    }
+  ]
+}
